@@ -3,4 +3,15 @@
 
 {% block bootstrap_theme %}
     <link rel="stylesheet" href="{% static 'bootstrap.css' %}" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Crafty+Girls&display=swap" rel="stylesheet">
+{% endblock %}
+
+{% block branding %}
+    <h3 class="branding">Philosophy API</h3>
+	<ul class="navbar">
+	    <li><a href="/">Home</a></li>
+	    <li><a href="/about">About</a></li>
+	    <li><a href="/documentation">Documentation</a></li>
+	    <li><a href="/api">API</a></li>
+	</ul>
 {% endblock %}
