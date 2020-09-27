@@ -46,7 +46,7 @@ class Book(DateTimeModel):
 
 class Idea(DateTimeModel):
     """Idea model"""
-    quote = models.TextField(max_length=1000, help_text='Quote of the Author')
+    quote = models.TextField(max_length=1500, help_text='Quote of the Author')
     author = models.ForeignKey(Philosopher, related_name='ideas', on_delete=models.CASCADE)
 
     def __str__(self):
