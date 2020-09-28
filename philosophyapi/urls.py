@@ -1,8 +1,16 @@
 from django.contrib import admin
 from django.urls import path, include
 from resources import views as resources_views
+from rest_framework.schemas import get_schema_view
+from rest_framework.renderers import JSONOpenAPIRenderer
 from philosophyapi import views
 from rest_framework import routers
+
+schema_view = get_schema_view(
+	title='Philosophy API',
+	version='0.1', 
+	renderer_classes=[JSONOpenAPIRenderer]
+)
 
 router = routers.DefaultRouter()
 
@@ -17,4 +25,5 @@ urlpatterns = [
 	path('documentation/', views.documentation, name='documentation'),
     path('admin/', admin.site.urls),
     path('api/', include(router.urls)),
+    path('schema', schema_view),
 ]
