@@ -1,6 +1,6 @@
 body {
 	background-color: #e0dfda;
-	background-image: url(https://i.ibb.co/SRrTLyN/J.png), url(https://i.ibb.co/WkTM1Z5/B.png);
+	background-image: url(https://i.ibb.co/WkTM1Z5/B.png), url(https://i.ibb.co/SRrTLyN/J.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center left, center right;
@@ -127,6 +127,8 @@ h5 {
 	color: #424a4f;
 	margin-top: 3px;
 	margin-bottom: 3px;
+	text-align: left;
+	font-weight: bold;
 }
 
 .about-text {
