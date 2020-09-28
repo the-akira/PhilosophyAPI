@@ -79,9 +79,9 @@ html {
 }
 
 .breadcrumb > li + li:before {
-    content: "/\00a0";
-    padding-left: 3.5px;
-    color: #424a4f;
+  content: "/\00a0";
+  padding-left: 3.5px;
+  color: #424a4f;
 }
 
 .btn {

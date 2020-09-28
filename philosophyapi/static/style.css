@@ -1,0 +1,167 @@
+body {
+	background-color: #e0dfda;
+}
+
+.container {
+	background-color: #fff;
+	min-height: 100vh;
+	height: 100%;
+	width: 70%;
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+}
+
+.navigation {
+    display: flex;
+	padding-top: 25px;
+	padding-left: 0px;
+    justify-content: center;
+}
+
+.navigation > li {
+	margin-right: 15px;
+    list-style-type: none;
+    font-size: 1.2rem;
+    text-decoration: underline;
+}
+
+.navigation > li > a {
+	color: #424a4f;
+	font-size: 1.2rem;
+  	text-decoration: underline;
+}
+
+.navigation > li > a:hover {
+	color: #7A4F59;
+	font-size: 1.2rem;
+  	text-decoration: underline;
+}
+
+.main-title {
+  	font-family: 'Crafty Girls', cursive;	
+  	color: #424a4f;
+  	text-align: center;
+  	font-weight: bold;
+  	margin-top: 35px;
+}
+
+.avatar {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	width: 250px;
+	height: 250px;
+	border-radius: 100%;
+	border: 5px solid #424a4f;
+}
+
+.menu-title {
+  	font-family: 'Crafty Girls', cursive;	
+  	color: #424a4f;
+  	text-align: center;
+  	font-weight: bold;
+  	margin-top: 40px;	
+}
+
+.row {
+	margin-top: 45px;
+}
+
+.col-md {
+	border: 2px solid #424a4f;	
+	text-align: center;
+	margin: 10px 15px 10px 15px;
+	padding: 15px;
+	border-radius: 7px;
+	background-color: #e0dfda;
+	box-shadow: 3px 3px 3px 3px rgba(0,0,0,.7);
+}
+
+.col-md > h4 {
+	color: #424a4f;
+	font-family: 'Crafty Girls', cursive;
+	font-weight: bold;
+	font-size: 1.5rem;
+	margin-bottom: 12px;
+}
+
+i {
+	color: #7A4F59;
+}
+
+i:hover {
+	opacity: 0.8;
+}
+
+footer {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+	width: 70%;
+	color: #424a4f;
+	text-align: center;
+	overflow: hidden;
+	background-color: #e0dfda;
+	padding: 15px;
+	border: 2px solid #424a4f;
+	border-radius: 7px;
+	box-shadow: 3px 3px 3px 3px rgba(0,0,0,.7);
+}
+
+footer > h4 {
+	margin-bottom: 0;
+	margin-top: 6px;
+	font-family: 'Crafty Girls', cursive;
+	font-size: 1.08rem;
+	font-weight: bold;
+}
+
+h5 {
+	font-family: 'Crafty Girls', cursive;
+	font-size: 1.44rem;
+	color: #424a4f;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+.about-text {
+	padding: 5px;
+	color: #424a4f;
+	text-align: justify;
+	margin-bottom: 0;
+}
+
+.about-list {
+	text-align: left;
+	color: #424a4f;
+	margin-bottom: 0;
+}
+
+.icon {
+	float: right;
+	margin-top: 10px;
+	margin-right: 5px;
+}
+
+a {
+	color: #7A4F59;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #7A4F59;
+}
+
+span {
+	background-color: #fff;
+	padding: 1.4px;
+	border-radius: 4px;
+	border: 1px solid #7A4F59;
+}
+
+@media only screen and (max-width: 640px) {
+	.container {
+		width: 80%;
+	}
+}

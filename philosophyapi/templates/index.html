@@ -1,1 +1,28 @@
-<p>Index</p>
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+	{% include '_nav.html' %}
+	{% include '_header.html' %}
+	<h3 class="menu-title">Start your Journey</h3>
+	<div class="row">
+	    <div class="col-md">
+	      <h4>Philosophers</h4>
+	      <a class="icone" href="/api/philosophers"><i class="fas fa-user-edit fa-4x"></i></a>
+	    </div>
+	    <div class="col-md">
+	      <h4>Ideas</h4>
+	      <a class="icone" href="/api/ideas"><i class="fas fa-brain fa-4x"></i></a>
+	    </div>
+	    <div class="col-md">
+	      <h4>Books</h4>
+	      <a class="icone" href="/api/books"><i class="fas fa-book fa-4x"></i></a>
+	    </div>
+	    <div class="col-md">
+	      <h4>Schools</h4>
+	      <a class="icone" href="/api/schools"><i class="fas fa-university fa-4x"></i></a>
+	    </div>
+  	</div>
+  	{% include '_footer.html' %}
+</div>
+{% endblock content %}
