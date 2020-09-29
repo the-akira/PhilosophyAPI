@@ -1,0 +1,2542 @@
+[
+{
+    "model": "resources.idea",
+    "pk": 1,
+    "fields": {
+        "created": "2020-09-27T00:13:51.506Z",
+        "edited": "2020-09-27T00:13:51.506Z",
+        "quote": "I think, therefore I am",
+        "author": 1
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 2,
+    "fields": {
+        "created": "2020-09-27T00:33:01.925Z",
+        "edited": "2020-09-27T00:33:01.925Z",
+        "quote": "It is not enough to have a good mind; the main thing is to use it well.",
+        "author": 1
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 3,
+    "fields": {
+        "created": "2020-09-27T00:33:19.317Z",
+        "edited": "2020-09-27T00:33:19.318Z",
+        "quote": "The greatest minds are capable of the greatest vices as well as of the greatest virtues.",
+        "author": 1
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 4,
+    "fields": {
+        "created": "2020-09-27T00:33:26.777Z",
+        "edited": "2020-09-27T00:33:26.777Z",
+        "quote": "The reading of all good books is like a conversation with the finest minds of past centuries.",
+        "author": 1
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 5,
+    "fields": {
+        "created": "2020-09-27T00:33:34.388Z",
+        "edited": "2020-09-27T00:33:34.389Z",
+        "quote": "Divide each difficulty into as many parts as is feasible and necessary to resolve it.",
+        "author": 1
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 6,
+    "fields": {
+        "created": "2020-09-27T00:40:01.703Z",
+        "edited": "2020-09-27T00:40:01.704Z",
+        "quote": "Each problem that I solved became a rule, which served afterwards to solve other problems.",
+        "author": 1
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 7,
+    "fields": {
+        "created": "2020-09-27T00:40:24.672Z",
+        "edited": "2020-09-27T00:40:24.673Z",
+        "quote": "If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things",
+        "author": 1
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 8,
+    "fields": {
+        "created": "2020-09-27T00:40:31.153Z",
+        "edited": "2020-09-27T00:40:31.154Z",
+        "quote": "Perfect numbers like perfect men are very rare.",
+        "author": 1
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 9,
+    "fields": {
+        "created": "2020-09-27T00:40:39.181Z",
+        "edited": "2020-09-27T00:40:39.181Z",
+        "quote": "Everything is self-evident",
+        "author": 1
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 10,
+    "fields": {
+        "created": "2020-09-27T00:40:48.420Z",
+        "edited": "2020-09-27T00:40:48.420Z",
+        "quote": "Except our own thoughts, there is nothing absolutely in our power",
+        "author": 1
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 11,
+    "fields": {
+        "created": "2020-09-27T00:40:57.766Z",
+        "edited": "2020-09-27T00:40:57.766Z",
+        "quote": "When it is not in our power to follow what is true, we ought to follow what is most probable",
+        "author": 1
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 12,
+    "fields": {
+        "created": "2020-09-27T01:02:42.668Z",
+        "edited": "2020-09-27T01:02:42.668Z",
+        "quote": "He who is cruel to animals becomes hard also in his dealings with men. We can judge the heart of a man by his treatment of animals.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 13,
+    "fields": {
+        "created": "2020-09-27T01:02:52.230Z",
+        "edited": "2020-09-27T01:02:52.231Z",
+        "quote": "Happiness is not an ideal of reason, but of imagination.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 14,
+    "fields": {
+        "created": "2020-09-27T01:02:59.894Z",
+        "edited": "2020-09-27T01:02:59.894Z",
+        "quote": "Science is organized knowledge. Wisdom is organized life.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 15,
+    "fields": {
+        "created": "2020-09-27T01:03:10.067Z",
+        "edited": "2020-09-27T01:03:10.067Z",
+        "quote": "Live your life as though your every act were to become a universal law.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 16,
+    "fields": {
+        "created": "2020-09-27T01:03:21.520Z",
+        "edited": "2020-09-27T01:03:21.520Z",
+        "quote": "Thoughts without content are empty, intuitions without concepts are blind.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 17,
+    "fields": {
+        "created": "2020-09-27T01:03:28.209Z",
+        "edited": "2020-09-27T01:03:28.209Z",
+        "quote": "Give me matter, and I will construct a world out of it!",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 18,
+    "fields": {
+        "created": "2020-09-27T01:03:39.312Z",
+        "edited": "2020-09-27T01:03:39.312Z",
+        "quote": "Experience without theory is blind, but theory without experience is mere intellectual play.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 19,
+    "fields": {
+        "created": "2020-09-27T01:03:51.057Z",
+        "edited": "2020-09-27T01:03:51.057Z",
+        "quote": "Ingratitude is the essence of vileness.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 20,
+    "fields": {
+        "created": "2020-09-27T01:04:15.421Z",
+        "edited": "2020-09-27T01:04:15.421Z",
+        "quote": "I had therefore to remove knowledge, in order to make room for belief.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 21,
+    "fields": {
+        "created": "2020-09-27T01:04:25.600Z",
+        "edited": "2020-09-27T01:04:25.601Z",
+        "quote": "What can I know? What ought I to do? What can I hope?",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 22,
+    "fields": {
+        "created": "2020-09-27T01:04:50.569Z",
+        "edited": "2020-09-27T01:04:50.569Z",
+        "quote": "We are not rich by what we possess but by what we can do without.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 23,
+    "fields": {
+        "created": "2020-09-27T01:05:00.392Z",
+        "edited": "2020-09-27T01:05:00.392Z",
+        "quote": "How then is perfection to be sought? Wherein lies our hope? In education, and in nothing else.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 24,
+    "fields": {
+        "created": "2020-09-27T01:05:12.306Z",
+        "edited": "2020-09-27T01:05:12.306Z",
+        "quote": "All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 25,
+    "fields": {
+        "created": "2020-09-27T01:05:26.429Z",
+        "edited": "2020-09-27T01:05:26.430Z",
+        "quote": "There is something splendid about innocence; but what is bad about it, in turn, is that it cannot protect itself very well and is easily seduced.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 26,
+    "fields": {
+        "created": "2020-09-27T01:05:35.101Z",
+        "edited": "2020-09-27T01:05:35.101Z",
+        "quote": "One who makes himself a worm cannot complain afterwards if people step on him.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 27,
+    "fields": {
+        "created": "2020-09-27T01:05:45.046Z",
+        "edited": "2020-09-27T01:05:45.046Z",
+        "quote": "The busier we are, the more acutely we feel that we live, the more conscious we are of life.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 28,
+    "fields": {
+        "created": "2020-09-27T01:05:53.035Z",
+        "edited": "2020-09-27T01:05:53.035Z",
+        "quote": "Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 29,
+    "fields": {
+        "created": "2020-09-27T01:06:02.709Z",
+        "edited": "2020-09-27T01:06:02.710Z",
+        "quote": "Man must be disciplined, for he is by nature raw and wild…",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 30,
+    "fields": {
+        "created": "2020-09-27T01:06:10.368Z",
+        "edited": "2020-09-27T01:06:10.368Z",
+        "quote": "An action, to have moral worth, must be done from duty.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 31,
+    "fields": {
+        "created": "2020-09-27T01:06:32.092Z",
+        "edited": "2020-09-27T01:06:32.093Z",
+        "quote": "Whereas the beautiful is limited, the sublime is limitless, so that the mind in the presence of the sublime, attempting to imagine what it cannot, has pain in the failure but pleasure in contemplating the immensity of the attempt.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 32,
+    "fields": {
+        "created": "2020-09-27T01:08:32.512Z",
+        "edited": "2020-09-27T01:08:32.512Z",
+        "quote": "Morality is not properly the doctrine of how we may make ourselves happy, but how we may make ourselves worthy of happiness.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 33,
+    "fields": {
+        "created": "2020-09-27T01:29:29.870Z",
+        "edited": "2020-09-27T01:29:29.870Z",
+        "quote": "For peace to reign on Earth, humans must evolve into new beings who have learned to see the whole first",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 34,
+    "fields": {
+        "created": "2020-09-27T01:29:41.535Z",
+        "edited": "2020-09-27T01:29:41.535Z",
+        "quote": "Only he who, himself enlightened, is not afraid of shadows.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 35,
+    "fields": {
+        "created": "2020-09-27T01:29:51.831Z",
+        "edited": "2020-09-27T01:29:51.831Z",
+        "quote": "Space and time are the framework within which the mind is constrained to construct its experience of reality.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 36,
+    "fields": {
+        "created": "2020-09-27T01:30:29.217Z",
+        "edited": "2020-09-27T01:30:29.218Z",
+        "quote": "Enlightenment is man’s emergence from his self-imposed immaturity. Immaturity is the inability to use one’s understanding without guidance from another.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 37,
+    "fields": {
+        "created": "2020-09-27T01:30:45.069Z",
+        "edited": "2020-09-27T01:30:45.069Z",
+        "quote": "By a lie a man throws away and as it were annihilates his dignity as a man.",
+        "author": 2
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 38,
+    "fields": {
+        "created": "2020-09-27T02:07:24.610Z",
+        "edited": "2020-09-27T02:07:24.611Z",
+        "quote": "This is the best of all possible worlds.",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 39,
+    "fields": {
+        "created": "2020-09-27T02:07:40.151Z",
+        "edited": "2020-09-27T02:07:40.151Z",
+        "quote": "He who hasn't tasted bitter things hasn't earned sweet things",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 40,
+    "fields": {
+        "created": "2020-09-27T02:07:49.888Z",
+        "edited": "2020-09-27T02:07:49.888Z",
+        "quote": "There is nothing without a reason",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 41,
+    "fields": {
+        "created": "2020-09-27T02:07:57.864Z",
+        "edited": "2020-09-27T02:07:57.865Z",
+        "quote": "Music is the hidden arithmetical exercise of a mind unconscious that it is calculating",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 42,
+    "fields": {
+        "created": "2020-09-27T02:08:17.735Z",
+        "edited": "2020-09-27T02:08:17.735Z",
+        "quote": "There is nothing in the understanding which has not come from the senses, except the understanding itself, or the one who understands",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 43,
+    "fields": {
+        "created": "2020-09-27T02:08:27.574Z",
+        "edited": "2020-09-27T02:08:27.575Z",
+        "quote": "The present is big with the future",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 44,
+    "fields": {
+        "created": "2020-09-27T02:08:36.119Z",
+        "edited": "2020-09-27T02:08:36.120Z",
+        "quote": "Why is there something rather than nothing?",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 45,
+    "fields": {
+        "created": "2020-09-27T02:08:49.944Z",
+        "edited": "2020-09-27T02:08:49.944Z",
+        "quote": "Nothing is in the intellect that was not first in the senses, except the intellect itself",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 46,
+    "fields": {
+        "created": "2020-09-27T02:09:05.015Z",
+        "edited": "2020-09-27T02:09:05.015Z",
+        "quote": "Nothing is necessitated whose opposite is possible",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 47,
+    "fields": {
+        "created": "2020-09-27T02:09:44.961Z",
+        "edited": "2020-09-27T02:09:44.962Z",
+        "quote": "It is unworthy of excellent men to lose hours like slaves in the labour of calculation which could safely be relegated to anyone else if machines were used",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 48,
+    "fields": {
+        "created": "2020-09-27T02:10:08.604Z",
+        "edited": "2020-09-27T02:10:08.605Z",
+        "quote": "If you could blow the brain up to the size of a mill and walk about inside, you would not find consciousness",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 49,
+    "fields": {
+        "created": "2020-09-27T02:10:32.350Z",
+        "edited": "2020-09-27T02:10:32.350Z",
+        "quote": "The means of obtaining as much variety as possible, but with the greatest possible order...is the means of obtaining as much perfection as possible",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 50,
+    "fields": {
+        "created": "2020-09-27T02:10:52.512Z",
+        "edited": "2020-09-27T02:10:52.512Z",
+        "quote": "it is the knowledge of necessary and eternal truths that distinguishes us from the mere animals and gives us Reason and the sciences, raising us to the knowledge of ourselves and of God",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 51,
+    "fields": {
+        "created": "2020-09-27T02:11:00.853Z",
+        "edited": "2020-09-27T02:11:00.853Z",
+        "quote": "He who does not act does not exist",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 52,
+    "fields": {
+        "created": "2020-09-27T02:11:13.355Z",
+        "edited": "2020-09-27T02:11:13.355Z",
+        "quote": "Perceptions which are at present insensible may grow some day: nothing is useless, and eternity provides great scope for change",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 53,
+    "fields": {
+        "created": "2020-09-27T02:11:24.004Z",
+        "edited": "2020-09-27T02:11:24.004Z",
+        "quote": "For all bodies are in perpetual flux like rivers, and parts are passing in and out of them continually",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 54,
+    "fields": {
+        "created": "2020-09-27T02:11:48.977Z",
+        "edited": "2020-09-27T02:11:48.978Z",
+        "quote": "This interconnection or accommodation of all created things to each other, and each to all the others, brings it about that each simple substance has relations that express all the others, and consequently, that each simple substance is a perpetual, living mirror of the universe",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 55,
+    "fields": {
+        "created": "2020-09-27T02:12:14.913Z",
+        "edited": "2020-09-27T02:12:14.914Z",
+        "quote": "It is true that the more we see some connection in what happens to us, the more we are confirmed in the opinion we have about the reality of our appearances; and it is also true that the more we examine our appearances closely, the more we find them well-sequenced, as microscopes and other aids in making experiments have shown us",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 56,
+    "fields": {
+        "created": "2020-09-27T02:12:36.538Z",
+        "edited": "2020-09-27T02:12:36.539Z",
+        "quote": "Imaginary numbers are a fine and wonderful resource of the divine intellect, almost an amphibian between being and non-being",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 57,
+    "fields": {
+        "created": "2020-09-27T02:13:13.280Z",
+        "edited": "2020-09-27T02:13:13.280Z",
+        "quote": "The mind is not only capable of knowing [innate ideas], but further of finding them in itself; and if it had only the simple capacity to receive knowledge…it would not be the source of necessary truths…",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 58,
+    "fields": {
+        "created": "2020-09-27T02:17:48.085Z",
+        "edited": "2020-09-27T02:17:48.085Z",
+        "quote": "I have so many ideas that may perhaps be of some use in time if others more penetrating than I go deeply into them someday and join the beauty of their minds to the labour of mine",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 59,
+    "fields": {
+        "created": "2020-09-27T02:18:31.546Z",
+        "edited": "2020-09-27T02:18:31.546Z",
+        "quote": "The mind leans on [innate] principles every moment, but it does not come so easily to distinguish them and to represent them distinctly and separately, because that demands great attention to its acts, and the majority of people, little accustomed to think, has little of it.",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 60,
+    "fields": {
+        "created": "2020-09-27T02:19:00.374Z",
+        "edited": "2020-09-27T02:19:00.374Z",
+        "quote": "For I hold that it is only when we can prove everything we assert that we understand perfectly the thing under consideration",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 61,
+    "fields": {
+        "created": "2020-09-27T02:19:20.134Z",
+        "edited": "2020-09-27T02:19:20.134Z",
+        "quote": "For the [innate] general principles enter into our thoughts, of which they form the soul and the connection. They are as necessary thereto as the muscles and sinews are for walking, although we do not at all think of them",
+        "author": 3
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 62,
+    "fields": {
+        "created": "2020-09-27T02:31:11.866Z",
+        "edited": "2020-09-27T02:31:11.866Z",
+        "quote": "Talent hits a target no one else can hit. Genius hits a target no one else can see",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 63,
+    "fields": {
+        "created": "2020-09-27T02:31:20.509Z",
+        "edited": "2020-09-27T02:31:20.509Z",
+        "quote": "Compassion is the basis of morality",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 64,
+    "fields": {
+        "created": "2020-09-27T02:31:37.894Z",
+        "edited": "2020-09-27T02:31:37.895Z",
+        "quote": "A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 65,
+    "fields": {
+        "created": "2020-09-27T02:33:43.469Z",
+        "edited": "2020-09-27T02:33:43.470Z",
+        "quote": "Mostly it is loss which teaches us about the worth of things",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 66,
+    "fields": {
+        "created": "2020-09-27T02:34:01.191Z",
+        "edited": "2020-09-27T02:34:01.191Z",
+        "quote": "The assumption that animals are without rights and the illusion that our treatment of them has no moral significance is a positively outrageous example of Western crudity and barbarity. Universal compassion is the only guarantee of morality",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 67,
+    "fields": {
+        "created": "2020-09-27T02:34:11.305Z",
+        "edited": "2020-09-27T02:34:11.305Z",
+        "quote": "Every man takes the limits of his own field of vision for the limits of the world",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 68,
+    "fields": {
+        "created": "2020-09-27T02:34:20.195Z",
+        "edited": "2020-09-27T02:34:20.196Z",
+        "quote": "Happiness consists in frequent repetition of pleasure",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 69,
+    "fields": {
+        "created": "2020-09-27T02:34:30.838Z",
+        "edited": "2020-09-27T02:34:30.838Z",
+        "quote": "The person who writes for fools is always sure of a large audience",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 70,
+    "fields": {
+        "created": "2020-09-27T02:34:44.160Z",
+        "edited": "2020-09-27T02:34:44.160Z",
+        "quote": "It is difficult to find happiness within oneself, but it is impossible to find it anywhere else",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 71,
+    "fields": {
+        "created": "2020-09-27T02:35:23.782Z",
+        "edited": "2020-09-27T02:35:23.782Z",
+        "quote": "They tell us that Suicide is the greatest piece of Cowardice... That Suicide is wrong; when it is quite obvious that there is nothing in this world to which every man has a more unassailable title than to his own life and person",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 72,
+    "fields": {
+        "created": "2020-09-27T02:35:36.635Z",
+        "edited": "2020-09-27T02:35:36.635Z",
+        "quote": "Compassion for animals is intimately associated with goodness of character, and it may be confidently asserted that he who is cruel to animals cannot be a good man",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 73,
+    "fields": {
+        "created": "2020-09-27T02:35:43.870Z",
+        "edited": "2020-09-27T02:35:43.870Z",
+        "quote": "One should use common words to say uncommon things",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 74,
+    "fields": {
+        "created": "2020-09-27T02:36:01.778Z",
+        "edited": "2020-09-27T02:36:01.779Z",
+        "quote": "Every miserable fool who has nothing at all of which he can be proud, adopts as a last resource pride in the nation to which he belongs; he is ready and happy to defend all its faults and follies tooth and nail, thus reimbursing himself for his own inferiority",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 75,
+    "fields": {
+        "created": "2020-09-27T02:36:51.853Z",
+        "edited": "2020-09-27T02:36:51.853Z",
+        "quote": "When we read, another person thinks for us: we merely repeat his mental process. In learning to write, the pupil goes over with his pen what the teacher has outlined in pencil: so in reading; the greater part of the work of thought is already done for us. This is why it relieves us to take up a book after being occupied with our own thoughts. And in reading, the mind is, in fact, only the playground of another’s thoughts. So it comes about that if anyone spends almost the whole day in reading, and by way of relaxation devotes the intervals to some thoughtless pastime, he gradually loses the capacity for thinking; just as the man who always rides, at last forgets how to walk. This is the case with many learned persons: they have read themselves stupid",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 76,
+    "fields": {
+        "created": "2020-09-27T02:37:13.300Z",
+        "edited": "2020-09-27T02:37:13.300Z",
+        "quote": "Man can do what he wills but he cannot will what he wills.",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 77,
+    "fields": {
+        "created": "2020-09-27T02:37:50.653Z",
+        "edited": "2020-09-27T02:37:50.653Z",
+        "quote": "The art of not reading is a very important one. It consists in not taking an interest in whatever may be engaging the attention of the general public at any particular time. When some political or ecclesiastical pamphlet, or novel, or poem is making a great commotion, you should remember that he who writes for fools always finds a large public. A precondition for reading good books is not reading bad ones: for life is short",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 78,
+    "fields": {
+        "created": "2020-09-27T02:37:59.921Z",
+        "edited": "2020-09-27T02:37:59.921Z",
+        "quote": "Life is a constant process of dying",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 79,
+    "fields": {
+        "created": "2020-09-27T02:38:08.684Z",
+        "edited": "2020-09-27T02:38:08.684Z",
+        "quote": "We forfeit three-fourths of ourselves in order to be like other people",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 80,
+    "fields": {
+        "created": "2020-09-27T02:38:15.625Z",
+        "edited": "2020-09-27T02:38:15.625Z",
+        "quote": "A sense of humour is the only divine quality of man",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 81,
+    "fields": {
+        "created": "2020-09-27T02:38:40.656Z",
+        "edited": "2020-09-27T02:38:40.657Z",
+        "quote": "It is a wise thing to be polite; consequently, it is a stupid thing to be rude. To make enemies by unnecessary and willful incivility, is just as insane a proceeding as to set your house on fire. For politeness is like a counter--an avowedly false coin, with which it is foolish to be stingy",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 82,
+    "fields": {
+        "created": "2020-09-27T02:38:59.120Z",
+        "edited": "2020-09-27T02:38:59.120Z",
+        "quote": "We will gradually become indifferent to what goes on in the minds of other people when we acquire a knowledge of the superficial nature of their thoughts, the narrowness of their views and of the number of their errors. Whoever attaches a lot of value to the opinions of others pays them too much honor",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 83,
+    "fields": {
+        "created": "2020-09-27T02:39:09.826Z",
+        "edited": "2020-09-27T02:39:09.826Z",
+        "quote": "A high degree of intellect tends to make a man unsocial",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 84,
+    "fields": {
+        "created": "2020-09-27T02:39:42.647Z",
+        "edited": "2020-09-27T02:39:42.648Z",
+        "quote": "What disturbs and depresses young people is the hunt for happiness on the firm assumption that it must be met with in life. From this arises constantly deluded hope and so also dissatisfaction. Deceptive images of a vague happiness hover before us in our dreams, and we search in vain for their original. Much would have been gained if, through timely advice and instruction, young people could have had eradicated from their minds the erroneous notion that the world has a great deal to offer them",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 85,
+    "fields": {
+        "created": "2020-09-27T02:40:02.293Z",
+        "edited": "2020-09-27T02:40:02.293Z",
+        "quote": "If children were brought into the world by an act of pure reason alone, would the human race continue to exist? Would not a man rather have so much sympathy with the coming generation as to spare it the burden of existence, or at any rate not take it upon himself to impose that burden upon it in cold blood?",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 86,
+    "fields": {
+        "created": "2020-09-27T02:40:14.154Z",
+        "edited": "2020-09-27T02:40:14.155Z",
+        "quote": "Treat a work of art like a prince: let it speak to you first",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 87,
+    "fields": {
+        "created": "2020-09-27T02:40:31.481Z",
+        "edited": "2020-09-27T02:40:31.481Z",
+        "quote": "It would be better if there were nothing. Since there is more pain than pleasure on earth, every satisfaction is only transitory, creating new desires and new distresses, and the agony of the devoured animal is always far greater than the pleasure of the devourer",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 88,
+    "fields": {
+        "created": "2020-09-27T02:40:42.438Z",
+        "edited": "2020-09-27T02:40:42.438Z",
+        "quote": "Religion is the masterpiece of the art of animal training, for it trains people as to how they shall think",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 89,
+    "fields": {
+        "created": "2020-09-27T02:40:53.726Z",
+        "edited": "2020-09-27T02:40:53.726Z",
+        "quote": "Great men are like eagles, and build their nest on some lofty solitude",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 90,
+    "fields": {
+        "created": "2020-09-27T02:41:07.898Z",
+        "edited": "2020-09-27T02:41:07.899Z",
+        "quote": "So the problem is not so much to see what nobody has yet seen, as to think what nobody has yet thought concerning that which everybody sees",
+        "author": 4
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 91,
+    "fields": {
+        "created": "2020-09-27T02:52:17.147Z",
+        "edited": "2020-09-27T02:52:17.147Z",
+        "quote": "Nothing great in the world was accomplished without passion",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 92,
+    "fields": {
+        "created": "2020-09-27T02:52:50.092Z",
+        "edited": "2020-09-27T02:52:50.092Z",
+        "quote": "We learn from history that we do not learn from history",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 93,
+    "fields": {
+        "created": "2020-09-27T02:53:09.512Z",
+        "edited": "2020-09-27T02:53:09.512Z",
+        "quote": "To be independent of public opinion is the first formal condition of achieving anything great",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 94,
+    "fields": {
+        "created": "2020-09-27T02:53:35.011Z",
+        "edited": "2020-09-27T02:53:35.011Z",
+        "quote": "Genuine tragedies in the world are not conflicts between right and wrong. They are conflicts between two rights",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 95,
+    "fields": {
+        "created": "2020-09-27T02:53:49.856Z",
+        "edited": "2020-09-27T02:53:49.857Z",
+        "quote": "What experience and history teaches us is that people and governments have never learned anything from history, or acted on principles deduced from it",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 96,
+    "fields": {
+        "created": "2020-09-27T02:54:03.463Z",
+        "edited": "2020-09-27T02:54:03.463Z",
+        "quote": "Truth is found neither in the thesis nor the antithesis, but in an emergent synthesis which reconciles the two",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 97,
+    "fields": {
+        "created": "2020-09-27T02:54:13.732Z",
+        "edited": "2020-09-27T02:54:13.732Z",
+        "quote": "Evil resides in the very gaze which perceives Evil all around itself",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 98,
+    "fields": {
+        "created": "2020-09-27T02:54:23.603Z",
+        "edited": "2020-09-27T02:54:23.604Z",
+        "quote": "Only one man ever understood me, and he didn't understand me",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 99,
+    "fields": {
+        "created": "2020-09-27T02:54:33.689Z",
+        "edited": "2020-09-27T02:54:33.690Z",
+        "quote": "Education is the art of making man ethical",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 100,
+    "fields": {
+        "created": "2020-09-27T02:55:13.032Z",
+        "edited": "2020-09-27T02:55:13.032Z",
+        "quote": "It is solely by risking life that freedom is obtained; ...The individual who has not staked his or her life may, no doubt, be recognized as a Person; but he or she has not attained the truth of this recognition as an independent self-consciousness",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 101,
+    "fields": {
+        "created": "2020-09-27T02:55:27.529Z",
+        "edited": "2020-09-27T02:55:27.529Z",
+        "quote": "The valor that struggles is better than the weakness that endures",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 102,
+    "fields": {
+        "created": "2020-09-27T02:57:02.830Z",
+        "edited": "2020-09-27T02:57:02.830Z",
+        "quote": "...this is love. I have my self-consciousness not in myself but in the other. I am satisfied and have peace with myself only in this other and I AM only because I have peace with myself; if I did not have it then I would be a contradiction that falls to pieces. This other, because it likewise exists outside itself, has its self-consciousness only in me; and both the other and I are only this consciousness of being-outside-ourselves and of our identity; we are only this intuition, feeling, and knowledge of our unity. This is love, and without knowing that love is both a distinguishing and the sublation of this distinction, one speaks emptily of it",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 103,
+    "fields": {
+        "created": "2020-09-27T02:57:21.073Z",
+        "edited": "2020-09-27T02:57:21.074Z",
+        "quote": "When liberty is mentioned, we must always be careful to observe whether it is not really the assertion of private interests which is thereby designated",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 104,
+    "fields": {
+        "created": "2020-09-27T02:57:32.057Z",
+        "edited": "2020-09-27T02:57:32.057Z",
+        "quote": "The owl of Minerva begins its flight only with the coming of the dusk",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 105,
+    "fields": {
+        "created": "2020-09-27T02:58:41.062Z",
+        "edited": "2020-09-27T02:58:41.062Z",
+        "quote": "The bud disappears when the blossom breaks through, and we might say that the former is refuted by the latter; in the same way when the fruit comes, the blossom may be explained to be a false form of the plant’s existence, for the fruit appears as its true nature in place of the blossom. The ceaseless activity of their own inherent nature makes these stages moments of an organic unity, where they not merely do not contradict one another, but where one is as necessary as the other; and constitutes thereby the life of the whole",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 106,
+    "fields": {
+        "created": "2020-09-27T02:58:55.941Z",
+        "edited": "2020-09-27T02:58:55.941Z",
+        "quote": "Too fair to worship, too divine to love",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 107,
+    "fields": {
+        "created": "2020-09-27T02:59:32.574Z",
+        "edited": "2020-09-27T02:59:32.574Z",
+        "quote": "The ignorant man is not free, because what confronts him is an alien world, something outside him and in the offing, on which he depends, without his having made this foreign world for himself and therefore without being at home in it by himself as in something his own. The impulse of curiosity, the pressure for knowledge, from the lowest level up to the highest rung of philosophical insight arises only from the struggle to cancel this situation of unfreedom and to make the world one's own in one's ideas and thought",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 108,
+    "fields": {
+        "created": "2020-09-27T02:59:53.381Z",
+        "edited": "2020-09-27T02:59:53.381Z",
+        "quote": "People who are too fastidious towards the finite never reach actuality, but linger in abstraction, and their light dies away",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 109,
+    "fields": {
+        "created": "2020-09-27T03:00:10.831Z",
+        "edited": "2020-09-27T03:00:10.831Z",
+        "quote": "Once the state has been founded, there can no longer be any heroes. They come on the scene only in uncivilized conditions",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 110,
+    "fields": {
+        "created": "2020-09-27T03:00:23.125Z",
+        "edited": "2020-09-27T03:00:23.125Z",
+        "quote": "America is therefore the land of the future, where, in the ages that lie before us, the burden of the World's History shall reveal itself",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 111,
+    "fields": {
+        "created": "2020-09-27T03:00:33.819Z",
+        "edited": "2020-09-27T03:00:33.819Z",
+        "quote": "An idea is always a generalization, and generalization is a property of thinking. To generalize means to think",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 112,
+    "fields": {
+        "created": "2020-09-27T03:01:02.364Z",
+        "edited": "2020-09-27T03:01:02.364Z",
+        "quote": "If we go on to cast a look at the fate of world historical personalities... we shall find it to have been no happy one. They attained no calm enjoyment; their whole life was labor and trouble; their whole nature was nothing but their master passion. When their object is attained they fall off like empty hulls from the kernel. They die early, like Alexander; they are murdered, like Casear; transported to St. Helena, like Napoleon",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 113,
+    "fields": {
+        "created": "2020-09-27T03:01:19.959Z",
+        "edited": "2020-09-27T03:01:19.959Z",
+        "quote": "The state of man's mind, or the elementary phase of mind which he so far possesses, conforms precisely to the state of the world as he so far views it",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 114,
+    "fields": {
+        "created": "2020-09-27T03:01:41.604Z",
+        "edited": "2020-09-27T03:01:41.605Z",
+        "quote": "History is not the soil in which happiness grows. The periods of happiness in it are the blank pages of history",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 115,
+    "fields": {
+        "created": "2020-09-27T03:01:50.435Z",
+        "edited": "2020-09-27T03:01:50.435Z",
+        "quote": "World history is a court of judgment",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 116,
+    "fields": {
+        "created": "2020-09-27T03:02:04.950Z",
+        "edited": "2020-09-27T03:02:04.950Z",
+        "quote": "History in general is therefore the development of Spirit in Time, as Nature is the development of the Idea is Space",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 117,
+    "fields": {
+        "created": "2020-09-27T03:02:32.693Z",
+        "edited": "2020-09-27T03:02:32.694Z",
+        "quote": "If we are in a general way permitted to regard human activity in the realm of the beautiful as a liberation of the soul, as a release from constraint and restriction, in short to consider that art does actually alleviate the most overpowering and tragic catastrophes by means of the creations it offers to our contemplation and enjoyment, it is the art of music which conducts us to the final summit of that ascent to freedom",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 118,
+    "fields": {
+        "created": "2020-09-27T03:02:44.924Z",
+        "edited": "2020-09-27T03:02:44.924Z",
+        "quote": "The length of the journey has to be borne with, for every moment is necessary",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 119,
+    "fields": {
+        "created": "2020-09-27T03:03:06.592Z",
+        "edited": "2020-09-27T03:03:06.594Z",
+        "quote": "Art does not simply reveal God: it is one of the ways in which God reveals, and thus actualizes, himself",
+        "author": 5
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 120,
+    "fields": {
+        "created": "2020-09-27T15:12:12.051Z",
+        "edited": "2020-09-27T15:12:12.051Z",
+        "quote": "I would rather be a devil in alliance with truth, than an angel in alliance with falsehood.",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 121,
+    "fields": {
+        "created": "2020-09-27T15:12:23.420Z",
+        "edited": "2020-09-27T15:12:23.420Z",
+        "quote": "It is not as in the Bible, that God created man in his own image. But, on the contrary, man created God in his own image.",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 122,
+    "fields": {
+        "created": "2020-09-27T15:12:39.960Z",
+        "edited": "2020-09-27T15:12:39.960Z",
+        "quote": "My only wish isto transform friends of God into friends of man, believers into thinkers, devotees of prayer into devotees of work, candidates for the hereafter into students of the world, Christians who, by their own procession and admission, are half animal, half angel into persons, into whole persons.",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 123,
+    "fields": {
+        "created": "2020-09-27T15:13:07.887Z",
+        "edited": "2020-09-27T15:13:07.887Z",
+        "quote": "Wherever morality is based on theology, wherever the right is made dependent on divine authority, the most immoral, unjust, infamous things can be justified and established.",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 124,
+    "fields": {
+        "created": "2020-09-27T15:13:25.515Z",
+        "edited": "2020-09-27T15:13:25.515Z",
+        "quote": "Christianity set itself the goal of fulfilling man’s unattainable desires, but for that very reason ignored his attainable desires. By promising man eternal life, it deprived him of temporal life, by teaching him to trust in God’s help it took away his trust in his own powers; by giving him faith in a better life in heaven, it destroyed his faith in a better life on earth and his striving to attain such a life. Christianity gave man what his imagination desires, but for that very reason failed to give him what he really and truly desires.",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 125,
+    "fields": {
+        "created": "2020-09-27T15:13:54.894Z",
+        "edited": "2020-09-27T15:13:54.894Z",
+        "quote": "Religion is the dream of the human mind. But even in dreams we do not find ourselves in emptiness or in heaven, but on earth, in the realm of reality; we only see real things in the entrancing splendor of imagination and caprice, instead of in the simple daylight of reality and necessity.",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 126,
+    "fields": {
+        "created": "2020-09-27T15:14:07.871Z",
+        "edited": "2020-09-27T15:14:07.871Z",
+        "quote": "As we expand our knowledge of good books, we shrink the circle of men whose company we appreciate.",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 127,
+    "fields": {
+        "created": "2020-09-27T15:14:23.259Z",
+        "edited": "2020-09-27T15:14:23.259Z",
+        "quote": "The power of thought is the light of knowledge, the power of will is the energy of character, the power of heart is love. Reason, love and power of will are perfections of man.",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 128,
+    "fields": {
+        "created": "2020-09-27T15:14:41.344Z",
+        "edited": "2020-09-27T15:14:41.344Z",
+        "quote": "The present age ... prefers the sign to the thing signified, the copy to the original, fancy to reality, the appearance to the essence ... for in these days illusion only is sacred, truth profane.",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 129,
+    "fields": {
+        "created": "2020-09-27T15:14:53.151Z",
+        "edited": "2020-09-27T15:14:53.152Z",
+        "quote": "For the religious the holy is truth, for the philosophic the truth is holy",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 130,
+    "fields": {
+        "created": "2020-09-27T15:15:07.048Z",
+        "edited": "2020-09-27T15:15:07.049Z",
+        "quote": "The power of miracle is the power of imagination",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 131,
+    "fields": {
+        "created": "2020-09-27T15:15:23.079Z",
+        "edited": "2020-09-27T15:15:23.079Z",
+        "quote": "What yesterday was still religion is no longer such today; and what today is atheism, tomorrow will be religion",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 132,
+    "fields": {
+        "created": "2020-09-27T15:15:53.225Z",
+        "edited": "2020-09-27T15:15:53.225Z",
+        "quote": "To theology, ...only what it holds sacred is true, whereas to philosophy, only what holds true is sacred",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 133,
+    "fields": {
+        "created": "2020-09-27T15:16:40.539Z",
+        "edited": "2020-09-27T15:16:40.539Z",
+        "quote": "This work, though it deals only with eating and drinking, which are regarded in the eyes of our supernaturalistic mock-culture as the lowest acts, is of the greatest philosophic significance and importance... How former philosophers have broken their heads over the question of the bond between body and soul! Now we know, on scientific grounds, what the masses know from long experience, that eating and drinking hold together body and soul, that the searched-for bond is nutrition",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 134,
+    "fields": {
+        "created": "2020-09-27T15:17:11.446Z",
+        "edited": "2020-09-27T15:17:11.446Z",
+        "quote": "If therefore my work is negative, irreligious, atheistic, let it be remembered that atheism — at least in the sense of this work — is the secret of religion itself; that religion itself, not indeed on the surface, but fundamentally, not in intention or according to its own supposition, but in its heart, in its essence, believes in nothing else than the truth and divinity of human nature",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 135,
+    "fields": {
+        "created": "2020-09-27T15:17:52.173Z",
+        "edited": "2020-09-27T15:17:52.173Z",
+        "quote": "The doctrine of foods is of great ethical and political significance. Food becomes blood, blood becomes heart and brain, thoughts and mind stuff. Human fare is the foundation of human culture and thought. Would you improve a nation? Give it, instead of declamations against sin, better food. Man is what he eats",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 136,
+    "fields": {
+        "created": "2020-09-27T15:18:12.355Z",
+        "edited": "2020-09-27T15:18:12.355Z",
+        "quote": "Is it man that possesses love, or is it not much rather love that possesses man?",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 137,
+    "fields": {
+        "created": "2020-09-27T15:18:58.243Z",
+        "edited": "2020-09-27T15:18:58.243Z",
+        "quote": "I have always taken as the standard of the mode of teaching and writing, not the abstract, particular, professional philosopher, but universal man, that I have regarded man as the criterion of truth, and not this or that founder of a system, and have from the first placed the highest excellence of the philosopher in this, that he abstains, both as a man and as an author, from the ostentation of philosophy, i. e., that he is a philosopher only in reality, not formally, that he is a quiet philosopher, not a loud and still less a brawling one",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 138,
+    "fields": {
+        "created": "2020-09-27T15:19:14.738Z",
+        "edited": "2020-09-27T15:19:14.738Z",
+        "quote": "The first and highest law must be the love of man to man. Homo homini Deus est - this is the supreme practical maxim, this is the turning point of the world's History",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 139,
+    "fields": {
+        "created": "2020-09-27T15:19:43.965Z",
+        "edited": "2020-09-27T15:19:43.965Z",
+        "quote": "Faith is essentially intolerant ... essentially because necessarily bound up with faith is the illusion that one's cause is also God's cause",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 140,
+    "fields": {
+        "created": "2020-09-27T15:20:08.747Z",
+        "edited": "2020-09-27T15:20:08.748Z",
+        "quote": "Only he is a truly ethical, a truly human being, who has the courage to see through his own religious feelings and needs",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 141,
+    "fields": {
+        "created": "2020-09-27T15:22:09.487Z",
+        "edited": "2020-09-27T15:22:09.487Z",
+        "quote": "The history of philosophical system is the picture gallery of reason",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 142,
+    "fields": {
+        "created": "2020-09-27T15:22:42.484Z",
+        "edited": "2020-09-27T15:22:42.484Z",
+        "quote": "To prove cannot mean anything other than to bring the other person to my own conviction. The truth lies only in the unification of “I” and “You.” The Other of pure thought, however, is the sensuous intellect in general. In the field of philosophy, proof therefore consists only in the fact that the contradiction between sensuous intellect and pure thought is disposed, so that thought is true not only for itself but also for its opposite",
+        "author": 6
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 143,
+    "fields": {
+        "created": "2020-09-27T15:33:03.864Z",
+        "edited": "2020-09-27T15:33:03.864Z",
+        "quote": "Life can only be understood backwards; but it must be lived forwards",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 144,
+    "fields": {
+        "created": "2020-09-27T15:33:42.686Z",
+        "edited": "2020-09-27T15:33:42.686Z",
+        "quote": "The function of prayer is not to influence God, but rather to change the nature of the one who prays",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 145,
+    "fields": {
+        "created": "2020-09-27T15:34:45.504Z",
+        "edited": "2020-09-27T15:34:45.504Z",
+        "quote": "People demand freedom of speech as a compensation for the freedom of thought which they seldom use",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 146,
+    "fields": {
+        "created": "2020-09-27T15:34:58.730Z",
+        "edited": "2020-09-27T15:34:58.730Z",
+        "quote": "Anxiety is the dizziness of freedom",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 147,
+    "fields": {
+        "created": "2020-09-27T15:35:11.775Z",
+        "edited": "2020-09-27T15:35:11.775Z",
+        "quote": "People understand me so poorly that they don't even understand my complaint about them not understanding me",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 148,
+    "fields": {
+        "created": "2020-09-27T15:35:20.111Z",
+        "edited": "2020-09-27T15:35:20.111Z",
+        "quote": "Life is not a problem to be solved, but a reality to be experienced",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 149,
+    "fields": {
+        "created": "2020-09-27T15:35:31.672Z",
+        "edited": "2020-09-27T15:35:31.672Z",
+        "quote": "There are two ways to be fooled. One is to believe what isn't true; the other is to refuse to believe what is true",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 150,
+    "fields": {
+        "created": "2020-09-27T15:35:46.177Z",
+        "edited": "2020-09-27T15:35:46.177Z",
+        "quote": "The most common form of despair is not being who you are",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 151,
+    "fields": {
+        "created": "2020-09-27T15:37:15.221Z",
+        "edited": "2020-09-27T15:37:15.221Z",
+        "quote": "The greatest hazard of all, losing one’s self, can occur very quietly in the world, as if it were nothing at all. No other loss can occur so quietly; any other loss - an arm, a leg, five dollars, a wife, etc. - is sure to be noticed",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 152,
+    "fields": {
+        "created": "2020-09-27T15:37:48.829Z",
+        "edited": "2020-09-27T15:37:48.829Z",
+        "quote": "I see it all perfectly; there are two possible situations — one can either do this or that. My honest opinion and my friendly advice is this: do it or do not do it — you will regret both",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 153,
+    "fields": {
+        "created": "2020-09-27T15:37:59.695Z",
+        "edited": "2020-09-27T15:37:59.695Z",
+        "quote": "What labels me, negates me",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 154,
+    "fields": {
+        "created": "2020-09-27T15:38:10.715Z",
+        "edited": "2020-09-27T15:38:10.715Z",
+        "quote": "The most painful state of being is remembering the future, particularly the one you'll never have",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 155,
+    "fields": {
+        "created": "2020-09-27T15:38:28.049Z",
+        "edited": "2020-09-27T15:38:28.049Z",
+        "quote": "The Bible is very easy to understand. But we Christians are a bunch of scheming swindlers. We pretend to be unable to understand it because we know very well that the minute we understand, we are obliged to act accordingly",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 156,
+    "fields": {
+        "created": "2020-09-27T15:39:00.079Z",
+        "edited": "2020-09-27T15:39:00.079Z",
+        "quote": "In addition to my other numerous acquaintances, I have one more intimate confidant… My depression is the most faithful mistress I have known — no wonder, then, that I return the love",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 157,
+    "fields": {
+        "created": "2020-09-27T15:39:38.155Z",
+        "edited": "2020-09-27T15:39:38.155Z",
+        "quote": "Marry, and you will regret it; don’t marry, you will also regret it; marry or don’t marry, you will regret it either way. Laugh at the world’s foolishness, you will regret it; weep over it, you will regret that too; laugh at the world’s foolishness or weep over it, you will regret both. Believe a woman, you will regret it; believe her not, you will also regret it… Hang yourself, you will regret it; do not hang yourself, and you will regret that too; hang yourself or don’t hang yourself, you’ll regret it either way; whether you hang yourself or do not hang yourself, you will regret both. This, gentlemen, is the essence of all philosophy",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 158,
+    "fields": {
+        "created": "2020-09-27T15:40:08.013Z",
+        "edited": "2020-09-27T15:40:08.013Z",
+        "quote": "What is a poet? An unhappy man who hides deep anguish in his heart, but whose lips are so formed that when the sigh and cry pass through them, it sounds like lovely music.... And people flock around the poet and say: 'Sing again soon' - that is, 'May new sufferings torment your soul but your lips be fashioned as before, for the cry would only frighten us, but the music, that is blissful",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 159,
+    "fields": {
+        "created": "2020-09-27T15:40:26.342Z",
+        "edited": "2020-09-27T15:40:26.342Z",
+        "quote": "Love is the expression of the one who loves, not of the one who is loved. Those who think they can love only the people they prefer do not love at all. Love discovers truths about individuals that others cannot see",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 160,
+    "fields": {
+        "created": "2020-09-27T15:41:06.395Z",
+        "edited": "2020-09-27T15:41:06.395Z",
+        "quote": "A fire broke out backstage in a theatre. The clown came out to warn the public; they thought it was a joke and applauded. He repeated it; the acclaim was even greater. I think that's just how the world will come to an end: to general applause from wits who believe it's a joke",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 161,
+    "fields": {
+        "created": "2020-09-27T15:41:19.254Z",
+        "edited": "2020-09-27T15:41:19.255Z",
+        "quote": "What if everything in the world were a misunderstanding, what if laughter were really tears?",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 162,
+    "fields": {
+        "created": "2020-09-27T15:41:49.217Z",
+        "edited": "2020-09-27T15:41:49.218Z",
+        "quote": "If I were to wish for anything, I should not wish for wealth and power, but for the passionate sense of the potential, for the eye which, ever young and ardent, sees the possible. Pleasure disappoints, possibility never. And what wine is so sparkling, what so fragrant, what so intoxicating, as possibility!",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 163,
+    "fields": {
+        "created": "2020-09-27T15:42:06.210Z",
+        "edited": "2020-09-27T15:42:06.210Z",
+        "quote": "To dare is to lose one's footing momentarily. Not to dare is to lose oneself",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 164,
+    "fields": {
+        "created": "2020-09-27T15:42:20.348Z",
+        "edited": "2020-09-27T15:42:20.349Z",
+        "quote": "The tyrant dies and his rule is over, the martyr dies and his rule begins",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 165,
+    "fields": {
+        "created": "2020-09-27T15:42:32.368Z",
+        "edited": "2020-09-27T15:42:32.369Z",
+        "quote": "To venture causes anxiety, but not to venture is to lose one's self.... And to venture in the highest is precisely to be conscious of one's self",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 166,
+    "fields": {
+        "created": "2020-09-27T15:42:46.177Z",
+        "edited": "2020-09-27T15:42:46.178Z",
+        "quote": "Face the facts of being what you are, for that is what changes what you are",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 167,
+    "fields": {
+        "created": "2020-09-27T15:43:02.914Z",
+        "edited": "2020-09-27T15:43:02.915Z",
+        "quote": "God creates out of nothing. Wonderful you say. Yes, to be sure, but he does what is still more wonderful: he makes saints out of sinners",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 168,
+    "fields": {
+        "created": "2020-09-27T15:43:17.751Z",
+        "edited": "2020-09-27T15:43:17.751Z",
+        "quote": "To cheat oneself out of love is the most terrible deception; it is an eternal loss for which there is no reparation, either in time or in eternity",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 169,
+    "fields": {
+        "created": "2020-09-27T15:43:30.280Z",
+        "edited": "2020-09-27T15:43:30.280Z",
+        "quote": "If anyone on the verge of action should judge himself according to the outcome, he would never begin",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 170,
+    "fields": {
+        "created": "2020-09-27T15:43:56.265Z",
+        "edited": "2020-09-27T15:43:56.266Z",
+        "quote": "The proud person always wants to do the right thing, the great thing. But because he wants to do it in his own strength, he is fighting not with man, but with God",
+        "author": 7
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 171,
+    "fields": {
+        "created": "2020-09-27T15:52:46.606Z",
+        "edited": "2020-09-27T15:52:46.606Z",
+        "quote": "Tell me how you read and I'll tell you who you are",
+        "author": 8
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 172,
+    "fields": {
+        "created": "2020-09-27T15:53:12.522Z",
+        "edited": "2020-09-27T15:53:12.522Z",
+        "quote": "Anyone can achieve their fullest potential, who we are might be predetermined, but the path we follow is always of our own choosing. We should never allow our fears or the expectations of others to set the frontiers of our destiny. Your destiny can't be changed but, it can be challenged. Every man is born as many men and dies as a single one",
+        "author": 8
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 173,
+    "fields": {
+        "created": "2020-09-27T15:53:26.990Z",
+        "edited": "2020-09-27T15:53:26.990Z",
+        "quote": "If I take death into my life, acknowledge it, and face it squarely, I will free myself from the anxiety of death and the pettiness of life - and only then will I be free to become myself",
+        "author": 8
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 174,
+    "fields": {
+        "created": "2020-09-27T15:54:36.347Z",
+        "edited": "2020-09-27T15:54:36.347Z",
+        "quote": "Why is love beyond all measure of other human possibilities so rich and such a sweet burden for the one who has been struck by it? Because we change ourselves into that which we love, and yet remain ourselves. Then we would like to thank the beloved, but find nothing that would do it adequately. We can only be thankful to ourselves. Love transforms gratitude into faithfulness to ourselves and into an unconditional faith in the Other. Thus love steadily expands its most intimate secret. Closeness here is existence in the greatest distance from the other- the distance that allows nothing to dissolve - but rather presents the “thou” in the transparent, but “incomprehensible” revelation of the “just there”. That the presence of the other breaks into our own life - this is what no feeling can fully encompass. Human fate gives itself to human fate, and it is the task of pure love to keep this self-surrender as vital as on the first day",
+        "author": 8
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 175,
+    "fields": {
+        "created": "2020-09-27T15:55:00.414Z",
+        "edited": "2020-09-27T15:55:00.414Z",
+        "quote": "Man acts as though he were the shaper and master of language, while in fact language remains the master of man",
+        "author": 8
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 176,
+    "fields": {
+        "created": "2020-09-27T15:55:12.552Z",
+        "edited": "2020-09-27T15:55:12.552Z",
+        "quote": "Everyone is the other and no one is himself",
+        "author": 8
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 177,
+    "fields": {
+        "created": "2020-09-27T15:55:44.259Z",
+        "edited": "2020-09-27T15:55:44.260Z",
+        "quote": "Thinking only begins at the point where we have come to know that Reason, glorified for centuries, is the most obstinate adversary of thinking",
+        "author": 8
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 178,
+    "fields": {
+        "created": "2020-09-27T15:57:21.207Z",
+        "edited": "2020-09-27T15:57:21.207Z",
+        "quote": "Only he who already understands can listen",
+        "author": 8
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 179,
+    "fields": {
+        "created": "2020-09-27T15:57:38.888Z",
+        "edited": "2020-09-27T15:57:38.888Z",
+        "quote": "The poets are in the vanguard of a changed conception of Being",
+        "author": 8
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 180,
+    "fields": {
+        "created": "2020-09-27T15:58:10.183Z",
+        "edited": "2020-09-27T15:58:10.183Z",
+        "quote": "And so man, as existing transcendence abounding in and surpassing toward possibilities, is a creature of distance. Only through the primordial distances he establishes toward all being in his transcendence does a true nearness to things flourish in him",
+        "author": 8
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 181,
+    "fields": {
+        "created": "2020-09-27T17:02:03.360Z",
+        "edited": "2020-09-27T17:02:03.360Z",
+        "quote": "Facts do not cease to exist because they are ignored",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 182,
+    "fields": {
+        "created": "2020-09-27T17:02:16.600Z",
+        "edited": "2020-09-27T17:02:16.600Z",
+        "quote": "Words can be like X-rays if you use them properly -- they’ll go through anything. You read and you’re pierced",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 183,
+    "fields": {
+        "created": "2020-09-27T17:02:27.526Z",
+        "edited": "2020-09-27T17:02:27.526Z",
+        "quote": "After silence, that which comes nearest to expressing the inexpressible is music",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 184,
+    "fields": {
+        "created": "2020-09-27T17:02:38.930Z",
+        "edited": "2020-09-27T17:02:38.930Z",
+        "quote": "But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness. I want sin",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 185,
+    "fields": {
+        "created": "2020-09-27T17:02:48.430Z",
+        "edited": "2020-09-27T17:02:48.430Z",
+        "quote": "You shall know the truth and the truth shall make you mad",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 186,
+    "fields": {
+        "created": "2020-09-27T17:02:56.979Z",
+        "edited": "2020-09-27T17:02:56.980Z",
+        "quote": "Maybe this world is another planet’s hell",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 187,
+    "fields": {
+        "created": "2020-09-27T17:03:30.751Z",
+        "edited": "2020-09-27T17:03:30.752Z",
+        "quote": "Actual happiness always looks pretty squalid in comparison with the overcompensations for misery. And, of course, stability isn't nearly so spectacular as instability. And being contented has none of the glamour of a good fight against misfortune, none of the picturesqueness of a struggle with temptation, or a fatal overthrow by passion or doubt. Happiness is never grand",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 188,
+    "fields": {
+        "created": "2020-09-27T17:03:44.134Z",
+        "edited": "2020-09-27T17:03:44.134Z",
+        "quote": "The more powerful and original a mind, the more it will incline towards the religion of solitude",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 189,
+    "fields": {
+        "created": "2020-09-27T17:04:16.920Z",
+        "edited": "2020-09-27T17:04:16.920Z",
+        "quote": "If one's different, one's bound to be lonely",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 190,
+    "fields": {
+        "created": "2020-09-27T17:04:25.767Z",
+        "edited": "2020-09-27T17:04:25.767Z",
+        "quote": "I want to know what passion is. I want to feel something strongly",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 191,
+    "fields": {
+        "created": "2020-09-27T17:04:37.144Z",
+        "edited": "2020-09-27T17:04:37.144Z",
+        "quote": "The real hopeless victims of mental illness are to be found among those who appear to be most normal. \"Many of them are normal because they are so well adjusted to our mode of existence, because their human voice has been silenced so early in their lives, that they do not even struggle or suffer or develop symptoms as the neurotic does.\" They are normal not in what may be called the absolute sense of the word; they are normal only in relation to a profoundly abnormal society. Their perfect adjustment to that abnormal society is a measure of their mental sickness. These millions of abnormally normal people, living without fuss in a society to which, if they were fully human beings, they ought not to be adjusted",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 192,
+    "fields": {
+        "created": "2020-09-27T17:04:49.843Z",
+        "edited": "2020-09-27T17:04:49.843Z",
+        "quote": "I wanted to change the world. But I have found that the only thing one can be sure of changing is oneself",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 193,
+    "fields": {
+        "created": "2020-09-27T17:04:59.498Z",
+        "edited": "2020-09-27T17:04:59.498Z",
+        "quote": "An intellectual is a person who has discovered something more interesting than sex",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 194,
+    "fields": {
+        "created": "2020-09-27T17:05:09.593Z",
+        "edited": "2020-09-27T17:05:09.593Z",
+        "quote": "One believes things because one has been conditioned to believe them",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 195,
+    "fields": {
+        "created": "2020-09-27T17:05:18.454Z",
+        "edited": "2020-09-27T17:05:18.454Z",
+        "quote": "There are things known and there are things unknown, and in between are the doors of perception",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 196,
+    "fields": {
+        "created": "2020-09-27T17:05:27.171Z",
+        "edited": "2020-09-27T17:05:27.171Z",
+        "quote": "That men do not learn very much from the lessons of history is the most important of all the lessons that history has to teach",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 197,
+    "fields": {
+        "created": "2020-09-27T17:05:36.973Z",
+        "edited": "2020-09-27T17:05:36.973Z",
+        "quote": "I am I, and I wish I weren't",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 198,
+    "fields": {
+        "created": "2020-09-27T17:06:39.852Z",
+        "edited": "2020-09-27T17:06:39.852Z",
+        "quote": "It’s dark because you are trying too hard.\r\nLightly child, lightly. Learn to do everything lightly.\r\nYes, feel lightly even though you’re feeling deeply.\r\nJust lightly let things happen and lightly cope with them.\r\n\r\nI was so preposterously serious in those days, such a humorless little prig.\r\nLightly, lightly – it’s the best advice ever given me.\r\nWhen it comes to dying even. Nothing ponderous, or portentous, or emphatic.\r\nNo rhetoric, no tremolos,\r\nno self conscious persona putting on its celebrated imitation of Christ or Little Nell.\r\nAnd of course, no theology, no metaphysics.\r\nJust the fact of dying and the fact of the clear light.\r\n\r\nSo throw away your baggage and go forward.\r\nThere are quicksands all about you, sucking at your feet,\r\ntrying to suck you down into fear and self-pity and despair.\r\nThat’s why you must walk so lightly.\r\nLightly my darling,\r\non tiptoes and no luggage,\r\nnot even a sponge bag,\r\ncompletely unencumbered",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 199,
+    "fields": {
+        "created": "2020-09-27T17:07:01.880Z",
+        "edited": "2020-09-27T17:07:01.880Z",
+        "quote": "The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 200,
+    "fields": {
+        "created": "2020-09-27T17:07:29.022Z",
+        "edited": "2020-09-27T17:07:29.022Z",
+        "quote": "Chronic remorse, as all the moralists are agreed, is a most undesirable sentiment. If you have behaved badly, repent, make what amends you can and address yourself to the task of behaving better next time. On no account brood over your wrongdoing. Rolling in the muck is not the best way of getting clean",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 201,
+    "fields": {
+        "created": "2020-09-27T17:07:39.078Z",
+        "edited": "2020-09-27T17:07:39.079Z",
+        "quote": "Experience is not what happens to a man; it is what a man does with what happens to him",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 202,
+    "fields": {
+        "created": "2020-09-27T17:07:48.902Z",
+        "edited": "2020-09-27T17:07:48.902Z",
+        "quote": "Most human beings have an almost infinite capacity for taking things for granted",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 203,
+    "fields": {
+        "created": "2020-09-27T17:08:02.104Z",
+        "edited": "2020-09-27T17:08:02.104Z",
+        "quote": "...most men and women will grow up to love their servitude and will never dream of revolution",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 204,
+    "fields": {
+        "created": "2020-09-27T17:08:38.016Z",
+        "edited": "2020-09-27T17:08:38.016Z",
+        "quote": "Every man's memory is his private literature",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 205,
+    "fields": {
+        "created": "2020-09-27T17:09:36.541Z",
+        "edited": "2020-09-27T17:09:36.541Z",
+        "quote": "We live together, we act on, and react to, one another; but always and in all circumstances we are by ourselves. The martyrs go hand in hand into the arena; they are crucified alone. Embraced, the lovers desperately try to fuse their insulated ecstasies into a single self-transcendence; in vain. By its very nature every embodied spirit is doomed to suffer and enjoy in solitude. Sensations, feelings, insights, fancies—all these are private and, except through symbols and at second hand, incommunicable. We can pool information about experiences, but never the experiences themselves. From family to nation, every human group is a society of island universes",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 206,
+    "fields": {
+        "created": "2020-09-27T17:09:47.782Z",
+        "edited": "2020-09-27T17:09:47.782Z",
+        "quote": "Happiness is not achieved by the conscious pursuit of happiness; it is generally the by-product of other activities",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 207,
+    "fields": {
+        "created": "2020-09-27T17:09:58.868Z",
+        "edited": "2020-09-27T17:09:58.868Z",
+        "quote": "All that happens means something; nothing you do is ever insignificant",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 208,
+    "fields": {
+        "created": "2020-09-27T17:10:12.530Z",
+        "edited": "2020-09-27T17:10:12.530Z",
+        "quote": "Consistency is contrary to nature, contrary to life. The only completely consistent people are the dead",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 209,
+    "fields": {
+        "created": "2020-09-27T17:10:27.212Z",
+        "edited": "2020-09-27T17:10:27.212Z",
+        "quote": "There is only one corner of the universe you can be certain of improving, and that's your own self",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 210,
+    "fields": {
+        "created": "2020-09-27T17:10:39.856Z",
+        "edited": "2020-09-27T17:10:39.856Z",
+        "quote": "No social stability without individual stability",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 211,
+    "fields": {
+        "created": "2020-09-27T17:11:20.537Z",
+        "edited": "2020-09-27T17:11:20.537Z",
+        "quote": "To travel is to discover that everyone is wrong about other countries",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 212,
+    "fields": {
+        "created": "2020-09-27T17:11:34.930Z",
+        "edited": "2020-09-27T17:11:34.931Z",
+        "quote": "That all men are equal is a proposition which at ordinary times no sane individual has ever given his assent",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 213,
+    "fields": {
+        "created": "2020-09-27T17:11:53.654Z",
+        "edited": "2020-09-27T17:11:53.654Z",
+        "quote": "I ate civilization. It poisoned me; I was defiled. And then,\" he added in a lower tone, \"I ate my own wickedness",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 214,
+    "fields": {
+        "created": "2020-09-27T17:12:14.292Z",
+        "edited": "2020-09-27T17:12:14.293Z",
+        "quote": "Man is so intelligent that he feels impelled to invent theories to account for what happens in the world. Unfortunately, he is not quite intelligent enough, in most cases, to find correct explanations. So that when he acts on his theories, he behaves very often like a lunatic",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 215,
+    "fields": {
+        "created": "2020-09-27T17:13:03.759Z",
+        "edited": "2020-09-27T17:13:03.759Z",
+        "quote": "Ironically enough, the only people who can hold up indefinitely under the stress of modern war are psychotics. Individual insanity is immune to the consequences of collective insanity",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 216,
+    "fields": {
+        "created": "2020-09-27T17:13:29.364Z",
+        "edited": "2020-09-27T17:13:29.364Z",
+        "quote": "Every man with a little leisure and enough money for railway tickets, every man, indeed, who knows how to read, has it in his power to magnify himself, to multiply the ways in which he exists, to make his life full, significant and interesting",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 217,
+    "fields": {
+        "created": "2020-09-27T17:13:40.633Z",
+        "edited": "2020-09-27T17:13:40.634Z",
+        "quote": "A really efficient totalitarian state would be one in which the all-powerful executive of political bosses and their army of managers control a population of slaves who do not have to be coerced, because they love their servitude",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 218,
+    "fields": {
+        "created": "2020-09-27T17:13:51.594Z",
+        "edited": "2020-09-27T17:13:51.594Z",
+        "quote": "The propagandist's purpose is to make one set of people forget that certain other sets of people are human",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 219,
+    "fields": {
+        "created": "2020-09-27T17:14:18.830Z",
+        "edited": "2020-09-27T17:14:18.831Z",
+        "quote": "For in spite of language, in spite of intelligence and intuition and sympathy, one can never really communicate anything to anybody",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 220,
+    "fields": {
+        "created": "2020-09-27T17:14:45.195Z",
+        "edited": "2020-09-27T17:14:45.195Z",
+        "quote": "The man who comes back through the Door in the Wall will never be quite the same as the man who went out. He will be wiser but less sure, happier but less self-satisfied, humbler in acknowledging his ignorance yet better equipped to understand the relationship of words to things, of systematic reasoning to the unfathomable mystery which it tries, forever vainly, to comprehend",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 221,
+    "fields": {
+        "created": "2020-09-27T17:15:07.855Z",
+        "edited": "2020-09-27T17:15:07.855Z",
+        "quote": "Armaments, universal debt, and planned obsolescence—those are the three pillars of Western prosperity. If war, waste, and moneylenders were abolished, you'd collapse. And while you people are overconsuming the rest of the world sinks more and more deeply into chronic disaster",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 222,
+    "fields": {
+        "created": "2020-09-27T17:15:15.006Z",
+        "edited": "2020-09-27T17:15:15.006Z",
+        "quote": "Experience teaches only the teachable",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 223,
+    "fields": {
+        "created": "2020-09-27T17:15:26.935Z",
+        "edited": "2020-09-27T17:15:26.935Z",
+        "quote": "Technological progress has merely provided us with more efficient means for going backwards",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 224,
+    "fields": {
+        "created": "2020-09-27T17:15:37.117Z",
+        "edited": "2020-09-27T17:15:37.118Z",
+        "quote": "Great is truth, but still greater, from a practical point of view, is silence about truth",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 225,
+    "fields": {
+        "created": "2020-09-27T17:15:52.655Z",
+        "edited": "2020-09-27T17:15:52.656Z",
+        "quote": "To his dog, every man is Napoleon; hence the constant popularity of dogs",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 226,
+    "fields": {
+        "created": "2020-09-27T17:16:02.651Z",
+        "edited": "2020-09-27T17:16:02.652Z",
+        "quote": "A love of nature keeps no factories busy",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 227,
+    "fields": {
+        "created": "2020-09-27T17:16:17.572Z",
+        "edited": "2020-09-27T17:16:17.572Z",
+        "quote": "It is a bit embarrassing to have been concerned with the human problem all one's life and find at the end that one has no more to offer by way of advice than 'Try to be a little kinder",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 228,
+    "fields": {
+        "created": "2020-09-27T17:16:32.768Z",
+        "edited": "2020-09-27T17:16:32.768Z",
+        "quote": "I'm afraid of losing my obscurity. Genuineness only thrives in the dark. Like celery",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 229,
+    "fields": {
+        "created": "2020-09-27T17:16:55.980Z",
+        "edited": "2020-09-27T17:16:55.980Z",
+        "quote": "Deprived of their newspapers or a novel, reading-addicts will fall back onto cookery books, on the literature which is wrapped around bottles of patent medicine, on those instructions for keeping the contents crisp which are printed on the outside of boxes of breakfast cereals. On anything",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 230,
+    "fields": {
+        "created": "2020-09-27T17:17:55.869Z",
+        "edited": "2020-09-27T17:17:55.869Z",
+        "quote": "It is natural to believe in God when you're alone-- quite alone, in the night, thinking about death",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 231,
+    "fields": {
+        "created": "2020-09-27T17:18:10.443Z",
+        "edited": "2020-09-27T17:18:10.444Z",
+        "quote": "It isn't a matter of forgetting. What one has to learn is how to remember and yet be free of the past",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 232,
+    "fields": {
+        "created": "2020-09-27T17:18:36.246Z",
+        "edited": "2020-09-27T17:18:36.246Z",
+        "quote": "Pain was a fascinating horror",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 233,
+    "fields": {
+        "created": "2020-09-27T17:18:49.642Z",
+        "edited": "2020-09-27T17:18:49.642Z",
+        "quote": "We cannot reason ourselves out of our basic irrationality. All we can do is learn the art of being irrational in a reasonable way",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 234,
+    "fields": {
+        "created": "2020-09-27T17:19:21.761Z",
+        "edited": "2020-09-27T17:19:21.761Z",
+        "quote": "The leech's kiss, the squid's embrace,\r\nThe prurient ape's defiling touch:\r\nAnd do you like the human race?\r\nNo, not much",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 235,
+    "fields": {
+        "created": "2020-09-27T17:19:45.489Z",
+        "edited": "2020-09-27T17:19:45.489Z",
+        "quote": "All gods are homemade, and it is we who pull their strings, and so, give them the power to pull ours",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 236,
+    "fields": {
+        "created": "2020-09-27T17:20:04.870Z",
+        "edited": "2020-09-27T17:20:04.870Z",
+        "quote": "The vast majority of human beings dislike and even actually dread all notions with which they are not familiar... Hence it comes about that at their first appearance innovators have generally been persecuted, and always derided as fools and madmen",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 237,
+    "fields": {
+        "created": "2020-09-27T17:20:21.652Z",
+        "edited": "2020-09-27T17:20:21.652Z",
+        "quote": "The trouble with fiction,\" said John Rivers, \"is that it makes too much sense. Reality never makes sense",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 238,
+    "fields": {
+        "created": "2020-09-27T17:20:44.876Z",
+        "edited": "2020-09-27T17:20:44.876Z",
+        "quote": "It is only when we have renounced our preoccupation with \"I,\" \"me,\" \"mine,\" that we can truly possess the world in which we live. Everything, provided that we regard nothing as property. And not only is everything ours; it is also everybody else's",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 239,
+    "fields": {
+        "created": "2020-09-27T17:21:27.598Z",
+        "edited": "2020-09-27T17:21:27.598Z",
+        "quote": "Did you ever feel, as though you had something inside you that was only waiting for you to give it a chance to come out? Some sort of extra power that you aren't using - you know, like all the water that goes down the falls instead of through the turbines?",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 240,
+    "fields": {
+        "created": "2020-09-27T17:21:46.568Z",
+        "edited": "2020-09-27T17:21:46.568Z",
+        "quote": "The Bhagavad-Gita is the most systematic statement of spiritual evolution of endowing value to mankind. It is one of the most clear and comprehensive summaries of perennial philosophy ever revealed; hence its enduring value is subject not only to India but to all of humanity",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 241,
+    "fields": {
+        "created": "2020-09-27T17:22:01.910Z",
+        "edited": "2020-09-27T17:22:01.910Z",
+        "quote": "Don't try to behave as though you were essentially sane and naturally good. We're all demented sinners in the same cosmic boat - and the boat is perpetually sinking",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 242,
+    "fields": {
+        "created": "2020-09-27T17:22:11.644Z",
+        "edited": "2020-09-27T17:22:11.645Z",
+        "quote": "Consciousness is only possible through change; change is only possible through movement",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 243,
+    "fields": {
+        "created": "2020-09-27T17:22:24.381Z",
+        "edited": "2020-09-27T17:22:24.382Z",
+        "quote": "There will be in the next generation or so a pharmacological method of making people love their servitude and producing dictatorship without tears, so to speak, producing a kind of painless concentration camp for entire societies so that people will in fact have their liberties taken away from them but will rather enjoy it",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 244,
+    "fields": {
+        "created": "2020-09-27T17:22:33.189Z",
+        "edited": "2020-09-27T17:22:33.190Z",
+        "quote": "I'm claiming the right to be unhappy",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 245,
+    "fields": {
+        "created": "2020-09-27T17:34:04.300Z",
+        "edited": "2020-09-27T17:34:04.300Z",
+        "quote": "In a properly organized society like ours, nobody has any opportunities for being noble or heroic. Conditions have got to be thoroughly unstable before the occasion can arise. When there are wars, where there are divided allegiances, where there are temptations to be resisted, objects of love to be fought for or defended - there, obviously, nobility and heroism have some sense. But there aren't any wars nowadays. The greatest care is taken to prevent you from loving anyone too much. There's no such thing as a divided allegiance; you're so conditioned that you can't help doing what you ought to do. And what you ought to do is on the whole so pleasant, so many of the natural impulses are allowed free play, that there really aren't any temptations to resist. And if ever, by some unlucky chance, anything unpleasant should somehow happen, why, there's always soma to give you a holiday from the facts. And there's always soma to calm your anger, to reconcile you to your enemies, to make you patient and long-suffering. In the past you could only accomplish these things by making a great effort and after years of hard moral training. now, you swallow two or three half-gramme tablets, and there you are. Anybody can be virtuous now. You can carry at least half your mortality about in a bottle. Christianity without tears - that's what soma is",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 246,
+    "fields": {
+        "created": "2020-09-27T17:34:55.880Z",
+        "edited": "2020-09-27T17:34:55.880Z",
+        "quote": "The charm of history and its enigmatic lesson consist in the fact that, from age to age, nothing changes and yet everything is completely different",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 247,
+    "fields": {
+        "created": "2020-09-27T17:35:52.060Z",
+        "edited": "2020-09-27T17:35:52.060Z",
+        "quote": "Human beings act in a great variety of irrational ways, but all of them seem to be capable, if given a fair chance, of making a reasonable choice in the light of available evidence. Democratic institutions can be made to work only if all concerned do their best to impart knowledge and to encourage rationality. But today, in the world's most powerful democracy, the politicians and the propagandists prefer to make nonsense of democratic procedures by appealing almost exclusively to the ignorance and irrationality of the electors",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 248,
+    "fields": {
+        "created": "2020-09-27T17:36:04.544Z",
+        "edited": "2020-09-27T17:36:04.544Z",
+        "quote": "When people are suspicious with you, you start being suspicious with them",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 249,
+    "fields": {
+        "created": "2020-09-27T17:36:16.825Z",
+        "edited": "2020-09-27T17:36:16.825Z",
+        "quote": "My father considered a walk among the mountains as the equivalent of churchgoing",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 250,
+    "fields": {
+        "created": "2020-09-27T17:36:52.462Z",
+        "edited": "2020-09-27T17:36:52.462Z",
+        "quote": "To be enlightened is to be aware, always, of total reality in its immanent otherness - to be aware of it and yet remain in a condition to survive as an animal. Our goal is to discover that we have always been where we ought to be. Unhappily we make the task exceedingly difficult for ourselves",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 251,
+    "fields": {
+        "created": "2020-09-27T17:37:21.694Z",
+        "edited": "2020-09-27T17:37:21.694Z",
+        "quote": "So long as men worship the Caesars and Napoleons, Caesars and Napoleons will duly rise and make them miserable",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 252,
+    "fields": {
+        "created": "2020-09-27T17:37:35.829Z",
+        "edited": "2020-09-27T17:37:35.829Z",
+        "quote": "Each person is at each moment capable of remembering all that has ever happened to him and of perceiving everything that is happening everywhere in the universe",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 253,
+    "fields": {
+        "created": "2020-09-27T17:37:54.715Z",
+        "edited": "2020-09-27T17:37:54.716Z",
+        "quote": "It isn’t only art that is incompatible with happiness, it’s also science. Science is dangerous, we have to keep it most carefully chained and muzzled",
+        "author": 9
+    }
+},
+{
+    "model": "resources.idea",
+    "pk": 254,
+    "fields": {
+        "created": "2020-09-27T17:38:14.175Z",
+        "edited": "2020-09-27T17:38:14.176Z",
+        "quote": "A bad book is as much of a labor to write as a good one; it comes as sincerely from the author's soul",
+        "author": 9
+    }
+}
+]

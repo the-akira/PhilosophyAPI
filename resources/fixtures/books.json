@@ -1,0 +1,17 @@
+[
+{
+    "model": "resources.book",
+    "pk": 1,
+    "fields": {
+        "created": "2020-09-27T00:13:01.365Z",
+        "edited": "2020-09-27T00:13:01.365Z",
+        "title": "Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences",
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Descartes_Discours_de_la_Methode.jpg",
+        "abstract": "Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences (French: Discours de la Méthode Pour bien conduire sa raison, et chercher la vérité dans les sciences) is a philosophical and autobiographical treatise published by René Descartes in 1637. It is best known as the source of the famous quotation \"Je pense, donc je suis\" (\"I think, therefore I am\", or \"I am thinking, therefore I exist\"),[1] which occurs in Part IV of the work. A similar argument, without this precise wording, is found in Meditations on First Philosophy (1641), and a Latin version of the same statement Cogito, ergo sum is found in Principles of Philosophy (1644).",
+        "country": "France",
+        "language": "French",
+        "published": "1637-01-01",
+        "author": 1
+    }
+}
+]

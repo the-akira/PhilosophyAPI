@@ -1,0 +1,218 @@
+[
+{
+    "model": "resources.school",
+    "pk": 4,
+    "fields": {
+        "created": "2020-09-27T00:52:36.224Z",
+        "edited": "2020-09-27T00:52:36.224Z",
+        "name": "Kantianism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 5,
+    "fields": {
+        "created": "2020-09-27T00:52:45.060Z",
+        "edited": "2020-09-27T00:52:45.060Z",
+        "name": "Transcendental idealism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 6,
+    "fields": {
+        "created": "2020-09-27T00:52:51.178Z",
+        "edited": "2020-09-27T00:52:51.178Z",
+        "name": "Classical liberalism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 7,
+    "fields": {
+        "created": "2020-09-27T00:54:05.564Z",
+        "edited": "2020-09-27T00:54:05.564Z",
+        "name": "Rationalism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 8,
+    "fields": {
+        "created": "2020-09-27T00:54:12.326Z",
+        "edited": "2020-09-27T00:54:12.327Z",
+        "name": "Cartesianism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 9,
+    "fields": {
+        "created": "2020-09-27T00:54:15.890Z",
+        "edited": "2020-09-27T00:54:15.891Z",
+        "name": "Mechanism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 10,
+    "fields": {
+        "created": "2020-09-27T00:54:33.624Z",
+        "edited": "2020-09-27T00:54:33.625Z",
+        "name": "Augustinianism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 11,
+    "fields": {
+        "created": "2020-09-27T00:56:57.344Z",
+        "edited": "2020-09-27T00:56:57.344Z",
+        "name": "Optimism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 12,
+    "fields": {
+        "created": "2020-09-27T00:57:03.956Z",
+        "edited": "2020-09-27T00:57:03.956Z",
+        "name": "Conceptualism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 13,
+    "fields": {
+        "created": "2020-09-27T00:57:32.470Z",
+        "edited": "2020-09-27T00:57:32.470Z",
+        "name": "Foundationalism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 14,
+    "fields": {
+        "created": "2020-09-27T02:25:43.477Z",
+        "edited": "2020-09-27T02:25:43.478Z",
+        "name": "Continental philosophy"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 15,
+    "fields": {
+        "created": "2020-09-27T02:25:55.640Z",
+        "edited": "2020-09-27T02:25:55.641Z",
+        "name": "Philosophical pessimism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 16,
+    "fields": {
+        "created": "2020-09-27T02:43:42.951Z",
+        "edited": "2020-09-27T02:43:42.951Z",
+        "name": "German idealism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 17,
+    "fields": {
+        "created": "2020-09-27T02:43:47.657Z",
+        "edited": "2020-09-27T02:43:47.657Z",
+        "name": "Objective idealism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 18,
+    "fields": {
+        "created": "2020-09-27T02:43:52.310Z",
+        "edited": "2020-09-27T02:43:52.310Z",
+        "name": "Hegelianism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 19,
+    "fields": {
+        "created": "2020-09-27T02:44:01.982Z",
+        "edited": "2020-09-27T02:44:01.982Z",
+        "name": "Empirical realism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 20,
+    "fields": {
+        "created": "2020-09-27T02:44:10.450Z",
+        "edited": "2020-09-27T02:44:10.451Z",
+        "name": "Absolute idealism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 21,
+    "fields": {
+        "created": "2020-09-27T03:04:48.751Z",
+        "edited": "2020-09-27T03:04:48.751Z",
+        "name": "Anthropological materialism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 22,
+    "fields": {
+        "created": "2020-09-27T03:04:59.401Z",
+        "edited": "2020-09-27T03:04:59.402Z",
+        "name": "Secular humanism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 23,
+    "fields": {
+        "created": "2020-09-27T03:05:05.223Z",
+        "edited": "2020-09-27T03:05:05.223Z",
+        "name": "Young Hegelians"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 25,
+    "fields": {
+        "created": "2020-09-27T15:26:38.976Z",
+        "edited": "2020-09-27T15:26:38.976Z",
+        "name": "Existentialism"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 26,
+    "fields": {
+        "created": "2020-09-27T15:48:17.519Z",
+        "edited": "2020-09-27T15:48:17.519Z",
+        "name": "Phenomenology"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 27,
+    "fields": {
+        "created": "2020-09-27T15:48:25.140Z",
+        "edited": "2020-09-27T15:48:25.141Z",
+        "name": "Hermeneutics"
+    }
+},
+{
+    "model": "resources.school",
+    "pk": 28,
+    "fields": {
+        "created": "2020-09-27T16:52:02.686Z",
+        "edited": "2020-09-27T16:52:02.686Z",
+        "name": "Perennialism"
+    }
+}
+]

@@ -1,0 +1,176 @@
+[
+{
+    "model": "resources.philosopher",
+    "pk": 1,
+    "fields": {
+        "created": "2020-09-27T00:10:25.383Z",
+        "edited": "2020-09-27T00:57:53.932Z",
+        "name": "René Descartes",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg/800px-Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
+        "born_date": "1596-03-31",
+        "death_date": "1650-02-11",
+        "nationality": "French",
+        "era": "17th-century philosophy",
+        "school": [
+            7,
+            8,
+            9,
+            10,
+            13
+        ]
+    }
+},
+{
+    "model": "resources.philosopher",
+    "pk": 2,
+    "fields": {
+        "created": "2020-09-27T00:42:17.959Z",
+        "edited": "2020-09-27T00:53:16.712Z",
+        "name": "Immanuel Kant",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kant_gemaelde_3.jpg/459px-Kant_gemaelde_3.jpg",
+        "born_date": "1724-04-22",
+        "death_date": "1804-02-12",
+        "nationality": "German",
+        "era": "Age of Enlightenment",
+        "school": [
+            4,
+            5,
+            6
+        ]
+    }
+},
+{
+    "model": "resources.philosopher",
+    "pk": 3,
+    "fields": {
+        "created": "2020-09-27T00:59:02.293Z",
+        "edited": "2020-09-27T00:59:02.294Z",
+        "name": "Gottfried Wilhelm Leibniz",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg/486px-Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg",
+        "born_date": "1646-06-21",
+        "death_date": "1716-11-14",
+        "nationality": "German",
+        "era": "17th-18th Century Philosophy",
+        "school": [
+            7,
+            11,
+            12,
+            13
+        ]
+    }
+},
+{
+    "model": "resources.philosopher",
+    "pk": 4,
+    "fields": {
+        "created": "2020-09-27T02:27:44.829Z",
+        "edited": "2020-09-27T02:27:44.829Z",
+        "name": "Arthur Schopenhauer",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg",
+        "born_date": "1788-02-22",
+        "death_date": "1860-07-21",
+        "nationality": "German",
+        "era": "19th Century Philosophy",
+        "school": [
+            5,
+            14,
+            15
+        ]
+    }
+},
+{
+    "model": "resources.philosopher",
+    "pk": 5,
+    "fields": {
+        "created": "2020-09-27T02:45:26.395Z",
+        "edited": "2020-09-27T02:45:26.395Z",
+        "name": "Georg Wilhelm Friedrich Hegel",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hegel_by_Schlesinger.jpg/474px-Hegel_by_Schlesinger.jpg",
+        "born_date": "1770-08-27",
+        "death_date": "1831-11-14",
+        "nationality": "German",
+        "era": "19th Century Philosophy",
+        "school": [
+            12,
+            14,
+            16,
+            17,
+            18
+        ]
+    }
+},
+{
+    "model": "resources.philosopher",
+    "pk": 6,
+    "fields": {
+        "created": "2020-09-27T03:06:11.966Z",
+        "edited": "2020-09-27T03:06:11.966Z",
+        "name": "Ludwig Andreas von Feuerbach",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ludwig_Andreas_Feuerbach.jpg/525px-Ludwig_Andreas_Feuerbach.jpg",
+        "born_date": "1804-07-28",
+        "death_date": "1872-09-13",
+        "nationality": "German",
+        "era": "19th Century Philosophy",
+        "school": [
+            21,
+            22,
+            23
+        ]
+    }
+},
+{
+    "model": "resources.philosopher",
+    "pk": 7,
+    "fields": {
+        "created": "2020-09-27T15:29:54.985Z",
+        "edited": "2020-09-27T15:29:54.985Z",
+        "name": "Søren Aabye Kierkegaard",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg",
+        "born_date": "1813-05-05",
+        "death_date": "1855-11-11",
+        "nationality": "Danish",
+        "era": "19th Century Philosophy",
+        "school": [
+            14,
+            25
+        ]
+    }
+},
+{
+    "model": "resources.philosopher",
+    "pk": 8,
+    "fields": {
+        "created": "2020-09-27T15:49:41.898Z",
+        "edited": "2020-09-27T15:49:41.898Z",
+        "name": "Martin Heidegger",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Heidegger_2_%281960%29.jpg",
+        "born_date": "1889-09-26",
+        "death_date": "1976-05-26",
+        "nationality": "German",
+        "era": "20th Century Philosophy",
+        "school": [
+            14,
+            25,
+            26,
+            27
+        ]
+    }
+},
+{
+    "model": "resources.philosopher",
+    "pk": 9,
+    "fields": {
+        "created": "2020-09-27T16:53:10.231Z",
+        "edited": "2020-09-27T16:53:10.231Z",
+        "name": "Aldous Leonard Huxley",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Aldous_Huxley_psychical_researcher.png/450px-Aldous_Huxley_psychical_researcher.png",
+        "born_date": "1894-07-26",
+        "death_date": "1963-11-22",
+        "nationality": "English",
+        "era": "20th Century Philosophy",
+        "school": [
+            28
+        ]
+    }
+}
+]
