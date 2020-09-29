@@ -9,15 +9,15 @@ Welcome to the <span>Philosophy API Documentation</span> here you will better un
 <a id="start"></a>
 ## Getting Started
 
-Philosophy API is an API focused on reading resources, for this reason we will use the [GET method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET) with it in most scenarios to obtain our resources in JSON format and use it in the way that is most convenient for us.
+**Philosophy API** is an API focused on reading resources, for this reason we will use the [GET method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET) with it in most scenarios to obtain our resources in JSON format and use it in the way that is most convenient for us.
 
-There are several ways to execute HTTP requests, either through a web browser, a programming language like [Python](https://requests.readthedocs.io/en/master/) or [Javascript](https://github.com/axios/axios), or with software like [curl](https://github.com/curl/curl) or [httpie](https://httpie.org/). For this specific task we will use httpie for its simplicity. So let's start by asking for resources about the game genres. Open up your terminal and type
+There are several ways to execute HTTP requests, either through a web browser, a programming language like [Python](https://requests.readthedocs.io/en/master/) or [Javascript](https://github.com/axios/axios), or with software like [curl](https://github.com/curl/curl) or [httpie](https://httpie.org/). For this specific task we will use httpie for its simplicity. So let's start by asking for resources about some of the philosophers ideas. Open up your terminal and type:
 
 ```
 http https://philosophyapi.herokuapp.com/api/ideas/
 ```
 
-We will immediately receive the following resource in response
+We will immediately receive the following resource in response:
 
 	HTTP/1.1 200 OK
 	Allow: GET, HEAD, OPTIONS
@@ -113,7 +113,7 @@ We will immediately receive the following resource in response
 	    ]
 	}
 
-As we can see, several philosopher's ideas are returned to us with their respective ids and author
+As we can see, several philosopher's ideas are returned to us with their respective **ids** and **author**
 
 - - -
 
@@ -148,7 +148,7 @@ Let's make an HTTP request to the following URL
 http http://philosophyapi.herokuapp.com/api/ideas/?search=God
 ```
 
-We will get a filtered response only from the keyword we want
+We will get a filtered response only from the keyword we want, in this case, **God**:
 
 	HTTP/1.1 200 OK
 	Allow: GET, HEAD, OPTIONS
@@ -229,7 +229,7 @@ We will get a filtered response only from the keyword we want
 	    ]
 	}
 
-In this case the ideas were filtered by quote
+In this example the search was made in the quote's.
 
 - - -
 
@@ -332,7 +332,7 @@ Through pagination we can browse all available data.
 <a id="encoding"></a>
 ## Encoding
 
-JSON is the standard data format provided by Video Games API by default. You can see details about Schema at the following URL: [API Schema](https://philosophyapi.herokuapp.com/api/schema/)
+JSON is the standard data format provided by Philosophy API by default. You can see details about Schema at the following URL: [API Schema](https://philosophyapi.herokuapp.com/api/schema/)
 
 - - -
 
