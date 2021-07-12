@@ -2,45 +2,45 @@
 
 {% block content %}
 <div class="container">
-	{% include '_nav.html' %}
-	{% include '_header.html' %}
-	<h3 class="menu-title">Documentation</h3>
-	<div class="container-fluid">
-	  <div class="row">
-	    <div class="col-md-4">
-	      <h3 class="menu-doc-title">Intro</h3>
-	      <ul class="list-group">
-	          <li class="list-group-item"><a href="#intro">Introduction</a></li>
-	          <li class="list-group-item"><a href="#start">Getting Started</a></li>
-	          <li class="list-group-item"><a href="#base">Base URL</a></li>
-	          <li class="list-group-item"><a href="#auth">Authentication</a></li>
-	          <li class="list-group-item"><a href="#search">Search Filter</a></li>
-	          <li class="list-group-item"><a href="#pagination">Pagination</a></li>
-	          <li class="list-group-item"><a href="#encoding">Encoding</a></li>
-	      </ul>
-	      <h3 class="menu-doc-title">Resources</h3>
-	      <ul class="list-group">
-	          <li class="list-group-item"><a href="#root">Root</a></li>
-	          <li class="list-group-item"><a href="#philo">Philosophers</a></li>
-	          <li class="list-group-item"><a href="#ideas">Ideas</a></li>
-	          <li class="list-group-item"><a href="#books">Books</a></li>
-	          <li class="list-group-item"><a href="#schools">Schools</a></li>
-	          <li class="list-group-item"><a href="#schema">Schema</a></li>
-	      </ul>
-	      <h3 class="menu-doc-title">Developers</h3>
-	      <ul class="list-group">
-	          <li class="list-group-item"><a href="#contribution">Contribution</a></li>
-	          <li class="list-group-item"><a href="#playground">Playground</a></li>
-	      </ul>
-	    </div>
-	    <div class="col-md-8">
-	    {% load markdown_deux_tags %}
-	    {% markdown %}
-	        {% include "docs.md" %}
-	    {% endmarkdown %}
-	    </div>
-	  </div>
-	</div> 
+    {% include '_nav.html' %}
+    {% include '_header.html' %}
+    <h3 class="menu-title">Documentation</h3>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4">
+                <h3 class="menu-doc-title">Intro</h3>
+                <ul class="list-group">
+                    <li class="list-group-item"><a href="#intro">Introduction</a></li>
+                    <li class="list-group-item"><a href="#start">Getting Started</a></li>
+                    <li class="list-group-item"><a href="#base">Base URL</a></li>
+                    <li class="list-group-item"><a href="#auth">Authentication</a></li>
+                    <li class="list-group-item"><a href="#search">Search Filter</a></li>
+                    <li class="list-group-item"><a href="#pagination">Pagination</a></li>
+                    <li class="list-group-item"><a href="#encoding">Encoding</a></li>
+                </ul>
+                <h3 class="menu-doc-title">Resources</h3>
+                <ul class="list-group">
+                    <li class="list-group-item"><a href="#root">Root</a></li>
+                    <li class="list-group-item"><a href="#philo">Philosophers</a></li>
+                    <li class="list-group-item"><a href="#ideas">Ideas</a></li>
+                    <li class="list-group-item"><a href="#books">Books</a></li>
+                    <li class="list-group-item"><a href="#schools">Schools</a></li>
+                    <li class="list-group-item"><a href="#schema">Schema</a></li>
+                </ul>
+                <h3 class="menu-doc-title">Developers</h3>
+                <ul class="list-group">
+                    <li class="list-group-item"><a href="#contribution">Contribution</a></li>
+                    <li class="list-group-item"><a href="#playground">Playground</a></li>
+                </ul>
+            </div>
+            <div class="col-md-8">
+                {% load markdown_deux_tags %}
+                {% markdown %}
+                    {% include "docs.md" %}
+                {% endmarkdown %}
+            </div>
+        </div>
+    </div> 
   	{% include '_footer.html' %}
 </div>
 <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-arrow-up"></i></button>
