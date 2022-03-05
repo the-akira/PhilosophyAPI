@@ -332,7 +332,7 @@ Through pagination we can browse all available data.
 <a id="encoding"></a>
 ## Encoding
 
-JSON is the standard data format provided by Philosophy API by default. You can see details about Schema at the following URL: [API Schema](https://philosophyapi.herokuapp.com/api/schema/)
+JSON is the standard data format provided by Philosophy API by default. You can see details about Schema at the following URL: [API Schema](https://philosophyapi.herokuapp.com/schema)
 
 - - -
 
