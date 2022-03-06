@@ -250,6 +250,13 @@ code {
   font-size: 18px; 
 }
 
+@media only screen and (max-width: 575px) {
+  .container {
+    border-right: none;
+    border-left: none;
+  }
+}
+
 @media only screen and (max-width: 640px) {
   .container {
     width: 100%;
