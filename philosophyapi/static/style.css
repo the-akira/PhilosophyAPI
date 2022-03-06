@@ -110,7 +110,8 @@ i:hover {
 footer {
   margin-left: auto;
   margin-right: auto;
-  margin-top: 80px;
+  margin-top: 45px;
+  margin-bottom: 45px;
   width: 70%;
   color: #424a4f;
   text-align: center;
@@ -266,7 +267,7 @@ code {
     align-items: center;
   }
   footer {
-    width: 100%;
+    width: 93%;
   }
 }
 
