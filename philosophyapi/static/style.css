@@ -269,3 +269,15 @@ code {
     width: 100%;
   }
 }
+
+@media only screen and (max-width: 767px) {
+  .col-md-10 {
+    border: none;  
+    text-align: center;
+    margin: 0 auto;
+    padding: 0px 25px 0px 25px;
+    border-radius: 0px;
+    background-color: white;
+    box-shadow: none;
+  }
+}
