@@ -1,6 +1,5 @@
 body {
   background-color: #e0dfda;
-  background-image: url(https://i.ibb.co/WkTM1Z5/B.png), url(https://i.ibb.co/SRrTLyN/J.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center left, center right;
@@ -10,7 +9,7 @@ body {
   background-color: #fff;
   min-height: 100vh;
   height: 100%;
-  width: 70%;
+  width: 80%;
   border-right: 2px solid black;
   border-left: 2px solid black;
 }
@@ -88,6 +87,16 @@ body {
   font-weight: bold;
   font-size: 1.5rem;
   margin-bottom: 12px;
+}
+
+.col-md-10 {
+  border: 2px solid #424a4f;  
+  text-align: center;
+  margin: 0 auto;
+  padding: 15px;
+  border-radius: 7px;
+  background-color: #e0dfda;
+  box-shadow: 3px 3px 3px 3px rgba(0,0,0,.7);
 }
 
 i {
@@ -243,6 +252,13 @@ code {
 
 @media only screen and (max-width: 640px) {
   .container {
-    width: 80%;
+    width: 100%;
+  }
+  .navigation {
+    flex-direction: column;
+    align-items: center;
+  }
+  footer {
+    width: 100%;
   }
 }
