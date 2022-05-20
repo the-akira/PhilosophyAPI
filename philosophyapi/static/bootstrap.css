@@ -3269,6 +3269,10 @@ fieldset:disabled a.btn {
   margin-top: 0.5rem;
 }
 
+#content > div.region > button {
+  border: 1px solid black !important;
+}
+
 input[type="submit"].btn-block,
 input[type="reset"].btn-block,
 input[type="button"].btn-block {
