@@ -117,15 +117,16 @@ html {
   font-size: 1.35rem;  
 }
 
-.pagination > li {
+.pagination {
+  margin-bottom: 15px !important;
+}
+
+.pagination > li > a {
   background-color: #424a4f;
   margin-right: 4px;
   border: 1px solid black;
   border-radius: 3.5px;
-  padding: 2px 5px 2px 5px;
-}
-
-.pagination > li > a {
+  padding: 8px 5px 8px 5px;
   color: #fff !important;
 }
 
@@ -133,7 +134,7 @@ html {
   opacity: 0.7 !important;
 }
 
-.pagination > li.active {
+.pagination > li.active > a {
   background-color: #7A4F59 !important;
 }
 

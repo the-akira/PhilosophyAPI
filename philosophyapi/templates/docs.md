@@ -11,7 +11,7 @@ Welcome to the <span>Philosophy API Documentation</span> here you will better un
 
 **Philosophy API** is an API focused on reading resources, for this reason we will use the [GET method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET) with it in most scenarios to obtain our resources in JSON format and use it in the way that is most convenient for us.
 
-There are several ways to execute HTTP requests, either through a web browser, a programming language like [Python](https://requests.readthedocs.io/en/master/) or [Javascript](https://github.com/axios/axios), or with software like [curl](https://github.com/curl/curl) or [httpie](https://httpie.org/). For this specific task we will use httpie for its simplicity. So let's start by asking for resources about some of the philosophers ideas. Open up your terminal and type:
+There are several ways to execute HTTP requests, either through a web browser, a programming language like [Python](https://requests.readthedocs.io/en/master/) or [JavaScript](https://github.com/axios/axios), or with software like [curl](https://github.com/curl/curl) or [httpie](https://httpie.org/). For this specific task we will use httpie for its simplicity. So let's start by asking for resources about some of the philosophers ideas. Open up your terminal and type:
 
 ```
 http https://philosophyapi.herokuapp.com/api/ideas/
