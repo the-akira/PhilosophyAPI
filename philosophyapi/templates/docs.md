@@ -14,7 +14,7 @@ Welcome to the <span>Philosophy API Documentation</span> here you will better un
 There are several ways to execute HTTP requests, either through a web browser, a programming language like [Python](https://requests.readthedocs.io/en/master/) or [JavaScript](https://github.com/axios/axios), or with software like [curl](https://github.com/curl/curl) or [httpie](https://httpie.org/). For this specific task we will use httpie for its simplicity. So let's start by asking for resources about some of the philosophers ideas. Open up your terminal and type:
 
 ```
-http https://philosophyapi.herokuapp.com/api/ideas/
+http https://philosophyapi.pythonanywhere.com/api/ideas/
 ```
 
 We will immediately receive the following resource in response:
@@ -123,7 +123,7 @@ As we can see, several philosopher's ideas are returned to us with their respect
 The base URL is the root URL of the API's and it can serve as a map to locate us and understand the resources that are at our disposal. The base URL for the Philosophy API is as follows
 
 ```
-https://philosophyapi.herokuapp.com/api/
+https://philosophyapi.pythonanywhere.com/api/
 ```
 
 Consider this root URL as the basis for our future requests
@@ -145,7 +145,7 @@ The SearchFilter class supports simple single query parameter based searching, a
 Let's make an HTTP request to the following URL
 
 ```
-http http://philosophyapi.herokuapp.com/api/ideas/?search=God
+http http://philosophyapi.pythonanywhere.com/api/ideas/?search=God
 ```
 
 We will get a filtered response only from the keyword we want, in this case, **God**:
@@ -241,7 +241,7 @@ Philosophy API provides data through chunks that can be paged. Let's request the
 Let's request the following URL
 
 ```
-http https://philosophyapi.herokuapp.com/api/schools/?page=2
+http https://philosophyapi.pythonanywhere.com/api/schools/?page=2
 ```
 
 Immediately we obtain the respective data on the second page of schools of thought
@@ -332,7 +332,7 @@ Through pagination we can browse all available data.
 <a id="encoding"></a>
 ## Encoding
 
-JSON is the standard data format provided by Philosophy API by default. You can see details about Schema at the following URL: [API Schema](https://philosophyapi.herokuapp.com/schema)
+JSON is the standard data format provided by Philosophy API by default. You can see details about Schema at the following URL: [API Schema](https://philosophyapi.pythonanywhere.com/schema)
 
 - - -
 
@@ -344,7 +344,7 @@ The Root resource provides information on all available resources within the API
 Example request:
 
 ```
-http https://philosophyapi.herokuapp.com/api/
+http https://philosophyapi.pythonanywhere.com/api/
 ```
 
 We will get the following response:
@@ -389,7 +389,7 @@ A Philosopher resource represents a philosopher object with several attributes
 Example request:
 
 ```
-http https://philosophyapi.herokuapp.com/api/philosophers/1/
+http https://philosophyapi.pythonanywhere.com/api/philosophers/1/
 ```
 
 We will get the following response:
@@ -466,7 +466,7 @@ An Idea resource represents ideas of philosophers
 Example request:
 
 ```
-http https://philosophyapi.herokuapp.com/api/ideas/10/
+http https://philosophyapi.pythonanywhere.com/api/ideas/10/
 ```
 
 We are going to receive the following response from the server:
@@ -509,7 +509,7 @@ A Book resource represents a philosopher's book
 Example request:
 
 ```
-http https://philosophyapi.herokuapp.com/api/books/1/
+http https://philosophyapi.pythonanywhere.com/api/books/1/
 ```
 
 We are requesting the book which has the id 1. We will get the following response:
@@ -562,7 +562,7 @@ A School resource represents a School of Thought
 Example request:
 
 ```
-http https://philosophyapi.herokuapp.com/api/schools/?page=1
+http https://philosophyapi.pythonanywhere.com/api/schools/?page=1
 ```
 
 Realize that we are requesting the first page of schools and we will get the following response:
@@ -711,7 +711,7 @@ Realize that we are requesting the first page of schools and we will get the fol
 
 API schemas are a useful tool that allow for a range of use cases, including generating reference documentation, or driving dynamic client libraries that can interact with your API.
 
-You can find Schema for the Philosophy API by visiting the following link: [Schema API](https://philosophyapi.herokuapp.com/schema)
+You can find Schema for the Philosophy API by visiting the following link: [Schema API](https://philosophyapi.pythonanywhere.com/schema)
 
 - - -
 
@@ -729,4 +729,4 @@ You can contribute to the Philosophy API project in several ways
 <a id="playground"></a>
 ## Playground
 
-Django Rest framework provides us with an interface that we can [try the API](https://philosophyapi.herokuapp.com/api) without the need for any tool.
+Django Rest framework provides us with an interface that we can [try the API](https://philosophyapi.pythonanywhere.com/api) without the need for any tool.
