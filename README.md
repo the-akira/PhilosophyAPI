@@ -24,7 +24,7 @@ Start exploring or maybe improving our data resources
 
 ## Documentation
 
-You can read the complete documentation at the following address **[Docs](https://philosophyapi.herokuapp.com/documentation/)**
+You can read the complete documentation at the following address **[Docs](https://philosophyapi.pythonanywhere.com/documentation/)**
 
 ## Installation
 
