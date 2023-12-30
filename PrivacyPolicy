@@ -1,0 +1,33 @@
+# Privacy Policy for Philosophy API
+
+**Last Updated: 30.12.2023**
+
+## Introduction
+
+Welcome to Philosophy API at [https://philosophyapi.pythonanywhere.com/](https://philosophyapi.pythonanywhere.com/), an open-source API designed to provide a service that delivers concise data about the World of Philosophy. We offer a simple way to interact with the data and integrate it into your application. We are committed to protecting the privacy of all users and ensuring the security of all data processed through our API.
+
+## Information Collection and Use
+
+- **Types of Data Collected:** Philosophy API may collect technical data such as API usage, error logs, and performance metrics. Personal data is not actively collected; however, incidental personal data may be processed as part of the request data submitted by users.
+
+- **Use of Data:** The data collected is strictly for improving API performance, diagnosing issues, and facilitating user support. We do not sell, rent, or share collected data with third parties for commercial purposes.
+
+## Data Storage and Security
+
+- **Storage:** All data collected by the Philosophy API is stored securely and is accessed only by authorized personnel.
+
+- **Security Measures:** We implement industry-standard security measures to protect against unauthorized access, alteration, disclosure, or destruction of your data.
+
+## User Rights
+
+- **Access and Control:** Users have the right to inquire about the data collected and request deletion of any incidental personal data.
+
+- **Open-Source Contribution:** As an open-source API, users can review, modify, and distribute the code under the designated open-source license.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify users of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+
+## Contact Us
+
+For any questions or concerns about this Privacy Policy or data handling practices, please contact us at [gabrielfelippe@outlook.com](mailto:gabrielfelippe@outlook.com).
