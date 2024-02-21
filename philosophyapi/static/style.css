@@ -107,6 +107,10 @@ i:hover {
   opacity: 0.8;
 }
 
+.fa-github { 
+  margin-left: 2.5px;
+}
+
 footer {
   margin-left: auto;
   margin-right: auto;
