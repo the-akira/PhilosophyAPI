@@ -161,7 +161,10 @@ h5 {
 .icon {
   float: right;
   margin-top: 10px;
-  margin-right: 5px;
+}
+
+.icon > .fa-globe {
+  margin-right: 7.5px;
 }
 
 a {
