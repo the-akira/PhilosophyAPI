@@ -1,7 +1,7 @@
 <h1 align="center">Philosophy API</h1>
 
 <h1 align="center">
-    <img alt="avatar" src="https://raw.githubusercontent.com/the-akira/PhilosophyAPI/master/philosophyapi/static/avatar.png"> </br>
+    <img alt="avatar" src="/philosophyapi/static/avatar.png"> </br>
 </h1>
 
 <p align="center">Philosophy API brings data resources on Philosophy and Ideas</p> 
